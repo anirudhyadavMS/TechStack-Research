@@ -240,8 +240,6 @@
             justify-content: space-between;
             align-items: center;
             margin-bottom: 15px;
-            cursor: pointer;
-            user-select: none;
         }
 
         .app-name {
@@ -272,13 +270,6 @@
             color: #333;
             border-radius: 5px;
             font-size: 0.9em;
-            transition: all 0.2s;
-        }
-
-        .company-chip:hover {
-            background: #e7f3ff;
-            color: #0066cc;
-            transform: translateY(-2px);
         }
 
         .apps-grid {
@@ -454,8 +445,13 @@
 
         // App-Centric View Functions
         let currentView = 'company';
+        let cachedAppData = null;
 
         function buildAppCentricData() {
+            if (cachedAppData) {
+                return cachedAppData;
+            }
+            
             const appToCompanies = {};
             
             companies.forEach(company => {
@@ -470,9 +466,11 @@
             });
             
             // Sort apps by number of companies (descending)
-            return Object.entries(appToCompanies)
+            cachedAppData = Object.entries(appToCompanies)
                 .sort((a, b) => b[1].length - a[1].length)
-                .map(([app, companies]) => ({ app, companies }));
+                .map(([app, companyList]) => ({ app, companies: companyList }));
+            
+            return cachedAppData;
         }
 
         function renderApps() {
@@ -482,15 +480,15 @@
             
             resultsCount.textContent = `Showing ${appData.length} apps across ${companies.length} companies`;
             
-            container.innerHTML = appData.map(({ app, companies }) => `
+            container.innerHTML = appData.map(({ app, companies: companyList }) => `
                 <div class="app-card">
                     <div class="app-header">
                         <div class="app-name">${app}</div>
-                        <div class="company-count">${companies.length} ${companies.length === 1 ? 'company' : 'companies'}</div>
+                        <div class="company-count">${companyList.length} ${companyList.length === 1 ? 'company' : 'companies'}</div>
                     </div>
                     <div class="companies-list">
-                        ${companies.map(company => 
-                            `<div class="company-chip">${company}</div>`
+                        ${companyList.map(companyName => 
+                            `<div class="company-chip">${companyName}</div>`
                         ).join('')}
                     </div>
                 </div>
@@ -505,6 +503,8 @@
             const companiesContainer = document.getElementById('companies-container');
             const appsContainer = document.getElementById('apps-container');
             const controls = document.querySelector('.controls');
+            const searchBox = document.getElementById('search');
+            const filterDropdown = document.getElementById('app-filter');
             
             if (view === 'company') {
                 companyViewBtn.classList.add('active');
@@ -514,6 +514,12 @@
                 controls.classList.remove('hidden');
                 renderCompanies();
             } else {
+                // Reset search and filter when switching to app view
+                searchTerm = '';
+                currentFilter = 'all';
+                searchBox.value = '';
+                filterDropdown.value = 'all';
+                
                 appViewBtn.classList.add('active');
                 companyViewBtn.classList.remove('active');
                 companiesContainer.classList.add('hidden');
