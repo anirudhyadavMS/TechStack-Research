@@ -428,13 +428,13 @@
 
             container.innerHTML = filtered.map(company => `
                 <div class="company-card">
-                    <div class="company-name">${company.name}</div>
+                    <div class="company-name">${escapeHtml(company.name)}</div>
                     ${company.tech_stack && company.tech_stack.length > 0 ? `
                         <div class="apps-section">
                             <div class="section-title">Tech Stack</div>
                             <div class="app-tags">
                                 ${company.tech_stack.map(item =>
-                                    `<div class="app-tag ${item.is_target ? 'target' : 'other'}">${item.name}</div>`
+                                    `<div class="app-tag ${item.is_target ? 'target' : 'other'}">${escapeHtml(item.name)}</div>`
                                 ).join('')}
                             </div>
                         </div>
@@ -446,6 +446,12 @@
         // App-Centric View Functions
         let currentView = 'company';
         let cachedAppData = null;
+
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
 
         function buildAppCentricData() {
             if (cachedAppData) {
@@ -483,12 +489,12 @@
             container.innerHTML = appData.map(({ app, companies: companyList }) => `
                 <div class="app-card">
                     <div class="app-header">
-                        <div class="app-name">${app}</div>
+                        <div class="app-name">${escapeHtml(app)}</div>
                         <div class="company-count">${companyList.length} ${companyList.length === 1 ? 'company' : 'companies'}</div>
                     </div>
                     <div class="companies-list">
                         ${companyList.map(companyName => 
-                            `<div class="company-chip">${companyName}</div>`
+                            `<div class="company-chip">${escapeHtml(companyName)}</div>`
                         ).join('')}
                     </div>
                 </div>
