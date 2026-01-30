@@ -1,0 +1,80 @@
+{
+  "EY": [
+    "Aha! Features",
+    "Aha! Ideas",
+    "Azure DevOps Work Items",
+    "Azure SQL",
+    "SDK",
+    "ServiceNow Catalog",
+    "ServiceNow Knowledge"
+  ],
+  "Infosys": [
+    "ServiceNow Catalog",
+    "ServiceNow Knowledge",
+    "ServiceNow Tickets"
+  ],
+  "Koch": [
+    "Confluence",
+    "Enterprise Websites",
+    "File Share",
+    "GitHub Cloud Issues",
+    "GitHub Cloud Knowledge",
+    "GitHub Cloud Pull Requests",
+    "Non-MS(Others)",
+    "ServiceNow Catalog",
+    "ServiceNow Knowledge",
+    "ServiceNow Tickets"
+  ],
+  "LTI Mindtree": [
+    "ServiceNow Catalog",
+    "ServiceNow Knowledge",
+    "ServiceNow Tickets"
+  ],
+  "Manhattan Associates": [
+    "Amazon S3",
+    "Confluence",
+    "Enterprise Websites",
+    "Jira Cloud",
+    "Salesforce",
+    "ServiceNow Catalog",
+    "ServiceNow Knowledge"
+  ],
+  "MSIT": [
+    "Adobe Experience Manager Assets",
+    "Adobe Experience Manager Sites",
+    "Azure DevOps Wiki",
+    "Azure DevOps Work Items",
+    "Canva",
+    "Confluence",
+    "EngHub",
+    "Enterprise Websites",
+    "GitHub Cloud Knowledge",
+    "GitHubMCP",
+    "Gong",
+    "Google Drive",
+    "GoogleCalendar",
+    "GoogleContacts",
+    "HubSpot",
+    "ICMGraph",
+    "Intercom",
+    "Jira Cloud",
+    "Linear",
+    "Non-MS(Others)",
+    "Notion",
+    "S&P Global",
+    "ServiceNow Catalog",
+    "ServiceNow Knowledge",
+    "ServiceNow Tickets"
+  ],
+  "Qualcomm": [
+    "Azure DevOps Work Items",
+    "Confluence",
+    "Enterprise Websites",
+    "SDK",
+    "ServiceNow Tickets"
+  ],
+  "Roche": [],
+  "Wells Fargo": [
+    "ServiceNow Knowledge"
+  ]
+}

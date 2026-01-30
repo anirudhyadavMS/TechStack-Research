@@ -1,0 +1,145 @@
+================================================================================
+GOOGLE APPS RECONCILIATION WITH SCRATCHPAD - January 28, 2026
+================================================================================
+
+TASK: Compare scratchpad version with current version for Gmail, Google Drive,
+and Google Cloud. Use scratchpad as source of truth.
+
+================================================================================
+FINDINGS
+================================================================================
+
+SCRATCHPAD VERSION (Source of Truth):
+- Had "Google Cloud" in "Other Notable Apps" sections
+- Had Gmail/Google Drive marked as "NOT USED", "NOT CONFIRMED", or "✗" for
+  companies like CITIGROUP, ABBVIE, EXXON MOBIL
+- 4 companies with Google Cloud: Lloyds, Vodafone, Danone, General Motors
+
+CURRENT VERSION (Before Fix):
+- Markdown was CORRECT - had proper "NOT USED" markings
+- HTML extraction was BROKEN - incorrectly extracting Gmail/Google Drive as
+  target apps even when marked as "NOT USED"
+
+PROBLEM IDENTIFIED:
+The HTML generator (generate_html.py) was finding patterns like:
+- `**Gmail/Google Workspace** - NOT USED`
+- `No evidence of Gmail/Google Workspace for email`
+
+And extracting "Gmail" as a target app because:
+1. It found "Gmail" in the text
+2. There was a checkmark (✓) somewhere nearby in the context
+3. It didn't properly check that the app was marked as NOT USED
+
+================================================================================
+SOLUTION IMPLEMENTED
+================================================================================
+
+STEP 1: Reverted Gmail/Google Drive to Google Cloud in Markdown
+---------------------------------------------------------------
+- Ran revert_google_cloud.py
+- Changed 6 instances of Gmail/Google Drive back to Google Cloud
+- This was for simple Tech Stack sections
+
+STEP 2: Fixed HTML Extraction Logic
+------------------------------------
+Updated generate_html.py to use stricter pattern matching:
+
+BEFORE:
+```python
+if app in company_text:
+    if '✓' in context or '**' + app + '**' in company_text:
+        apps.append(app)
+```
+
+AFTER:
+```python
+# Look for bold app name with checkmark pattern: **AppName** ✓
+bold_pattern = r'\*\*' + re.escape(app) + r'\*\*\s*✓'
+if re.search(bold_pattern, company_text):
+    # Check for negative indicators
+    is_not_used = any(x in context for x in
+                     ['NOT USED', 'NOT CONFIRMED', 'NO EVIDENCE',
+                      '❌', '✗', 'NOT FOR'])
+    if not is_not_used:
+        apps.append(app)
+```
+
+This ensures:
+- Only extracts apps with explicit **AppName** ✓ pattern
+- Checks for negative indicators (NOT USED, ✗, etc.)
+- Doesn't extract apps from casual mentions
+
+================================================================================
+FINAL RESULTS
+================================================================================
+
+✓ Gmail as TARGET apps: 0 companies (CORRECT)
+✓ Google Drive as TARGET apps: 0 companies (CORRECT)
+✓ Google Cloud in tech stack: 15 companies (CORRECT)
+
+Companies with Google Cloud (as Other Technology):
+1. Lloyds Banking Group
+2. Vodafone Group
+3. Danone
+4. General Motors
+5. Apple
+6. Boeing
+7. CVS Health
+8. Cardinal Health
+9. Citigroup
+10. Lockheed Martin
+... and 5 more
+
+================================================================================
+VALIDATION
+================================================================================
+
+Checked against scratchpad version:
+- CITIGROUP: Scratchpad had "Gmail/Google Drive ✗ NOT FOR EMAIL"
+  Current: Same, and NOT extracted as target app ✓
+
+- ABBVIE: Scratchpad had "Gmail/Google Workspace - NOT USED"
+  Current: Same, and NOT extracted as target app ✓
+
+- EXXON MOBIL: Scratchpad had "Gmail/Google Workspace: No evidence"
+  Current: Same, and NOT extracted as target app ✓
+
+- DANONE: Scratchpad had "Google Cloud (e-commerce with commercetools)"
+  Current: Has "Google Cloud" ✓
+
+================================================================================
+KEY INSIGHT
+================================================================================
+
+The markdown file was already correct and matched the scratchpad.
+
+The issue was in the HTML generation logic, which was over-eagerly extracting
+apps even when they were marked as "NOT USED".
+
+The fix ensures that only explicitly confirmed apps (with **AppName** ✓ pattern
+and no negative indicators) are extracted as target applications.
+
+================================================================================
+FILES UPDATED
+================================================================================
+
+1. company_technology_stack_analysis.md
+   - Reverted 6 Gmail/Google Drive instances to Google Cloud
+   - Already had correct NOT USED markings
+
+2. generate_html.py
+   - Fixed extraction logic to respect NOT USED markings
+   - Stricter pattern matching for target apps
+   - Added negative indicator checks
+
+3. company_technology_stack_analysis.html
+   - Regenerated with correct extraction
+   - No false Gmail/Google Drive target apps
+
+4. New scripts:
+   - compare_google_apps.py (comparison tool)
+   - revert_google_cloud.py (reversion tool)
+
+================================================================================
+END OF RECONCILIATION SUMMARY
+================================================================================

@@ -1,0 +1,270 @@
+================================================================================
+3P CONNECTORS TO TARGET APPS UPDATE - January 28, 2026
+================================================================================
+
+SUMMARY:
+Converted 3P Connectors (Microsoft Copilot specific integrations) to Target
+Applications for 5 companies. Removed 3P Connectors sections entirely.
+
+================================================================================
+CHANGES BY COMPANY
+================================================================================
+
+1. QUALCOMM
+-----------
+   REMOVED:
+   - 3P Connectors section
+
+   ADDED TO TARGET APPS:
+   - Azure DevOps Work Items ✓
+   - ServiceNow ✓
+
+   RESULT IN HTML:
+   - Target Apps: ['ServiceNow', 'Azure DevOps Work Items']
+   - 3P Connectors: [] (empty)
+
+2. EY (ERNST & YOUNG)
+---------------------
+   REMOVED:
+   - 3P Connectors section
+
+   ADDED TO TARGET APPS:
+   - Aha ✓
+   - Azure DevOps Work Items ✓
+   - Azure SQL ✓
+
+   RESULT IN HTML:
+   - Target Apps: ['ServiceNow', 'Azure DevOps Work Items', 'Aha', 'Azure SQL']
+   - 3P Connectors: [] (empty)
+
+3. KOCH INDUSTRIES
+------------------
+   REMOVED:
+   - 3P Connectors section
+
+   ADDED TO TARGET APPS:
+   - FileShare ✓
+   - GitHub ✓
+   - ServiceNow ✓
+
+   RESULT IN HTML:
+   - Target Apps: ['ServiceNow', 'FileShare', 'GitHub']
+   - 3P Connectors: [] (empty)
+
+4. LTIMINDTREE
+--------------
+   REMOVED:
+   - 3P Connectors section
+
+   NO APPS ADDED
+   (Kept existing apps)
+
+   RESULT IN HTML:
+   - Target Apps: ['Salesforce', 'ServiceNow']
+   - 3P Connectors: [] (empty)
+
+5. WELLS FARGO
+--------------
+   REMOVED:
+   - 3P Connectors section
+
+   NO APPS ADDED
+   (Kept existing apps)
+
+   RESULT IN HTML:
+   - Target Apps: ['Salesforce', 'ServiceNow', 'Slack']
+   - 3P Connectors: [] (empty)
+
+================================================================================
+RATIONALE FOR CHANGES
+================================================================================
+
+1. CONSOLIDATION
+   - 3P Connectors were Microsoft Copilot-specific integrations
+   - Many of these are standard enterprise applications
+   - Better to track them as confirmed target apps
+
+2. SIMPLIFIED TRACKING
+   - Single "Target Applications" section per company
+   - No separate Microsoft Copilot connector tracking
+   - Easier to understand company tech stack at a glance
+
+3. CONSISTENCY
+   - Apps like ServiceNow, GitHub, Azure DevOps are primary enterprise tools
+   - Not just "connectors" but core applications
+   - Should be tracked as target apps like Salesforce, Jira, etc.
+
+================================================================================
+TECHNICAL CHANGES
+================================================================================
+
+1. MARKDOWN FILE (company_technology_stack_analysis.md)
+   Script: update_3p_sections.py
+
+   Changes:
+   - Removed "### 3P Connectors (Microsoft Copilot)" sections
+   - Added new apps to "**Target Apps Found:**" sections
+   - Each app formatted as: "- **App Name** ✓"
+
+2. HTML GENERATOR (generate_html.py)
+
+   Updated target_apps list:
+   BEFORE:
+   target_apps = ['Salesforce', 'ServiceNow', 'Jira', 'Confluence',
+                  'Slack', 'Gmail', 'Google Drive', 'Gong', 'Dropbox', 'Box']
+
+   AFTER:
+   target_apps = [
+       'Salesforce', 'ServiceNow', 'Jira', 'Confluence', 'Slack',
+       'Gmail', 'Google Drive', 'Gong', 'Dropbox', 'Box',
+       # Additional apps from 3P connectors promoted to target apps
+       'Azure DevOps Work Items', 'Aha', 'Azure SQL', 'FileShare', 'GitHub'
+   ]
+
+3. HTML DASHBOARD (company_technology_stack_analysis.html)
+
+   - Regenerated with new target apps
+   - 3P Connectors sections removed for all 5 companies
+   - New apps now appear in blue "Target Applications" tags
+
+================================================================================
+BEFORE & AFTER EXAMPLES
+================================================================================
+
+QUALCOMM - BEFORE:
+------------------
+**Target Apps Found:**
+- No specific confirmation found
+
+### 3P Connectors (Microsoft Copilot)
+
+Confirmed connectors in use:
+- **Azure DevOps Work Items**
+- **Confluence**
+- **Enterprise Websites**
+- **SDK**
+- **ServiceNow Tickets**
+
+QUALCOMM - AFTER:
+-----------------
+**Target Apps Found:**
+- **Azure DevOps Work Items** ✓
+- **ServiceNow** ✓
+- No specific confirmation found
+
+---
+
+EY - BEFORE:
+------------
+**Target Apps Found:**
+- **ServiceNow** ✓ - Above average use, 5 partner awards in 2024
+
+### 3P Connectors (Microsoft Copilot)
+
+Confirmed connectors in use:
+- **Aha! Features**
+- **Aha! Ideas**
+- **Azure DevOps Work Items**
+- **Azure SQL**
+- **SDK**
+- **ServiceNow Catalog**
+- **ServiceNow Knowledge**
+
+EY - AFTER:
+-----------
+**Target Apps Found:**
+- **Aha** ✓
+- **Azure DevOps Work Items** ✓
+- **Azure SQL** ✓
+- **ServiceNow** ✓ - Above average use, 5 partner awards in 2024
+
+================================================================================
+IMPACT ON DASHBOARD
+================================================================================
+
+HTML Dashboard Changes:
+1. Companies with updated target apps now show new apps in blue tags
+2. No green "3P Connectors" sections for these 5 companies
+3. Dropdown filter includes new apps:
+   - Azure DevOps Work Items
+   - Aha
+   - Azure SQL
+   - FileShare
+   - GitHub
+
+Users can now filter by these apps to find companies using them.
+
+================================================================================
+VERIFICATION COMMANDS
+================================================================================
+
+Check markdown sections:
+```bash
+cd C:\Users\anirudhyadav\Fortune500_TechStack_Research_2026
+
+# Check if 3P sections removed
+grep -c "### 3P Connectors" company_technology_stack_analysis.md
+
+# Should return 0 for these companies:
+grep -A 10 "## .*QUALCOMM" company_technology_stack_analysis.md | grep "3P Connectors"
+grep -A 10 "## .*EY" company_technology_stack_analysis.md | grep "3P Connectors"
+grep -A 10 "## .*KOCH" company_technology_stack_analysis.md | grep "3P Connectors"
+```
+
+Check HTML data:
+```python
+import json, re
+with open('company_technology_stack_analysis.html', 'r') as f:
+    html = f.read()
+match = re.search(r'const companies = (\[.*?\]);', html, re.DOTALL)
+companies = json.loads(match.group(1))
+
+# Check Qualcomm
+qualcomm = [c for c in companies if 'QUALCOMM' in c['name'].upper()][0]
+print(f"Qualcomm apps: {qualcomm['apps']}")
+print(f"Qualcomm 3P: {qualcomm['connectors_3p']}")
+```
+
+================================================================================
+FILES UPDATED
+================================================================================
+
+1. company_technology_stack_analysis.md
+   - Updated 5 company sections
+   - Removed 5 "3P Connectors" sections
+   - Added 8 new target app entries
+
+2. generate_html.py
+   - Expanded target_apps list with 5 new apps
+   - Updated parsing to recognize new apps
+
+3. company_technology_stack_analysis.html
+   - Regenerated with new data
+   - 3P Connectors removed for 5 companies
+   - New apps visible in Target Applications
+
+4. New helper script:
+   - update_3p_sections.py (automated the updates)
+
+================================================================================
+STATISTICS
+================================================================================
+
+Total Companies: 201
+Companies Updated: 5 (2.5%)
+
+3P Connector Sections Removed: 5
+New Target Apps Added: 8
+  - Azure DevOps Work Items: 2 companies (Qualcomm, EY)
+  - ServiceNow: 2 companies (Qualcomm, Koch)
+  - Aha: 1 company (EY)
+  - Azure SQL: 1 company (EY)
+  - FileShare: 1 company (Koch)
+  - GitHub: 1 company (Koch)
+
+Companies Still With 3P Connectors: 0
+(All 3P connector sections have been removed)
+
+================================================================================
+END OF UPDATE SUMMARY
+================================================================================

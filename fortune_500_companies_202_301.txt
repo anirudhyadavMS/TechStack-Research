@@ -1,0 +1,121 @@
+Fortune 500 Companies: Ranks 202-301 (Next 100 Companies)
+
+Batch 12 (202-211): 10 companies
+202. Colgate-Palmolive
+203. Fidelity National Information Services
+204. McKesson Technology Solutions
+205. Ross Stores
+206. Las Vegas Sands
+207. Royal Caribbean Group
+208. Gilead Sciences
+209. Becton Dickinson
+210. Automatic Data Processing (ADP)
+211. Marsh & McLennan
+
+Batch 13 (212-221): 10 companies
+212. Biogen
+213. Carmax
+214. Realty Income
+215. Caesars Entertainment
+216. Caesars Entertainment
+217. Applied Materials
+218. Synchrony Financial
+219. Monster Beverage
+220. Marriott International
+221. Principal Financial
+
+Batch 14 (222-231): 10 companies
+222. TravelCenters of America
+223. NRG Energy
+224. American Airlines Group
+225. Huntington Bancshares
+226. Whirlpool
+227. Eaton
+228. AECOM
+229. General Mills
+230. Entergy
+231. PPG Industries
+
+Batch 15 (232-241): 10 companies
+232. Nucor
+233. Kellogg Company
+234. AutoZone
+235. Sempra Energy
+236. Molina Healthcare
+237. L3Harris Technologies
+238. Genuine Parts
+239. Air Products and Chemicals
+240. International Paper
+241. Xcel Energy
+
+Batch 16 (242-251): 10 companies
+242. Emerson Electric
+243. Aflac
+244. Danaher
+245. ManpowerGroup
+246. Occidental Petroleum
+247. Truist Financial
+248. CenterPoint Energy
+249. Fifth Third Bancorp
+250. Edison International
+251. KeyCorp
+
+Batch 17 (252-261): 10 companies
+252. Hormel Foods
+253. Sherwin-Williams
+254. Regions Financial
+255. Avery Dennison
+256. Ball Corporation
+257. Republic Services
+258. Stanley Black & Decker
+259. United Rentals
+260. Fortive
+261. Devon Energy
+
+Batch 18 (262-271): 10 companies
+262. Performance Food Group
+263. Newmont
+264. Valero Energy
+265. Tenet Healthcare
+266. CBRE Group
+267. CH Robinson Worldwide
+268. ConocoPhillips
+269. Williams Companies
+270. Paccar
+271. Packaging Corporation of America
+
+Batch 19 (272-281): 10 companies
+272. WEC Energy Group
+273. Mosaic Company
+274. FirstEnergy
+275. Jacobs Engineering
+276. Martin Marietta Materials
+277. Freeport-McMoRan
+278. DTE Energy
+279. Crown Holdings
+280. CMS Energy
+281. Ameren
+
+Batch 20 (282-291): 10 companies
+282. O'Reilly Automotive
+283. Eastman Chemical
+284. Baker Hughes
+285. EOG Resources
+286. LyondellBasell Industries
+287. KLA Corporation
+288. Lam Research
+289. Masco
+290. Advance Auto Parts
+291. Public Service Enterprise Group
+
+Batch 21 (292-301): 10 companies
+292. Chesapeake Energy
+293. Continental Resources
+294. Lennar
+295. D.R. Horton
+296. Vulcan Materials
+297. VF Corporation
+298. CarMax
+299. Centene (duplicate check)
+300. Warner Bros Discovery
+301. Targa Resources

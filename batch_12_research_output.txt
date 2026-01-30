@@ -1,0 +1,257 @@
+## 202. Colgate-Palmolive
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: ✓
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Microsoft 365
+- AWS
+
+**Sources:**
+- https://www.colgate.com/en-us/careers
+- https://www.linkedin.com/company/colgate-palmolive/
+
+## 203. Fidelity National Information Services
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: ✓
+- **Slack**: ✓
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: ✓
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- AWS
+- Azure
+- Oracle
+- SAP
+
+**Sources:**
+- https://www.fisglobal.com/en/careers
+- https://www.linkedin.com/company/fis/
+
+## 204. McKesson Technology Solutions
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Oracle
+- SAP
+- Microsoft 365
+- Azure
+
+**Sources:**
+- https://www.mckesson.com/About-Us/Careers/
+- https://www.linkedin.com/company/mckesson/
+
+## 205. Ross Stores
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Oracle
+- Microsoft 365
+- Azure
+
+**Sources:**
+- https://www.rossstores.com/careers
+- https://www.linkedin.com/company/ross-stores/
+
+## 206. Las Vegas Sands
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Oracle
+- SAP
+- Microsoft 365
+
+**Sources:**
+- https://www.sands.com/careers.html
+- https://www.linkedin.com/company/las-vegas-sands-corp-/
+
+## 207. Royal Caribbean Group
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: ✓
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Microsoft 365
+- Azure
+- AWS
+
+**Sources:**
+- https://www.royalcaribbeangroup.com/careers/
+- https://www.linkedin.com/company/royal-caribbean-group/
+
+## 208. Gilead Sciences
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: ✓
+- **Slack**: ✓
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Workday
+- SAP
+- AWS
+- Veeva
+
+**Sources:**
+- https://www.gilead.com/careers
+- https://www.linkedin.com/company/gilead-sciences/
+
+## 209. Becton Dickinson
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+- AWS
+
+**Sources:**
+- https://www.bd.com/en-us/company/careers
+- https://www.linkedin.com/company/bd1/
+
+## 210. Automatic Data Processing (ADP)
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: ✓
+- **Slack**: ✓
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: ✓
+- **Gong**: ✓
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- AWS
+- Azure
+- Microsoft 365
+- Oracle
+
+**Sources:**
+- https://www.adp.com/careers.aspx
+- https://www.linkedin.com/company/adp/
+
+## 211. Marsh & McLennan
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: ✓
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft 365
+- Azure
+- AWS
+- SAP
+
+**Sources:**
+- https://www.mmc.com/careers.html
+- https://www.linkedin.com/company/marsh-&-mclennan-companies/
+

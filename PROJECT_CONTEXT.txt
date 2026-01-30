@@ -1,0 +1,321 @@
+================================================================================
+FORTUNE 500 TECHNOLOGY STACK RESEARCH PROJECT
+Date: January 28, 2026
+Status: 201 Companies Analyzed (40% Complete)
+================================================================================
+
+PROJECT OVERVIEW
+================================================================================
+This project analyzes Fortune 500 companies to identify their enterprise
+technology stack, with a focus on specific target applications:
+
+TARGET APPLICATIONS (Primary Focus):
+- Salesforce (CRM)
+- ServiceNow (ITSM)
+- Jira (Project Management)
+- Confluence (Collaboration)
+- Slack (Communication)
+- Gmail/Google Drive (Email/Storage)
+- Box (File Storage)
+- Gong (Sales Intelligence)
+- Dropbox (File Storage)
+
+ALSO TRACKED (Secondary):
+- Microsoft 365/Azure
+- AWS
+- Google Cloud
+- SAP
+- Workday
+- Oracle
+
+METHODOLOGY:
+- Web research using parallel AI agents
+- Each agent researches 1 company
+- Sources: Company websites, job postings, press releases, news articles
+- Results compiled into markdown report and interactive HTML dashboard
+- Optimal batch size: 10 companies (40 causes rate limiting)
+
+
+CURRENT STATUS
+================================================================================
+COMPANIES ANALYZED: 201 of 500 (40.2% complete)
+- Fortune 100 Rank: 1-100 (100 companies)
+- Fortune 500 Rank: 101-201 (101 companies)
+
+REMAINING: 299 companies (Ranks 202-500)
+
+FINAL STATISTICS (201 Companies):
+┌─────────────────────────┬───────────┬────────────┐
+│ Application             │ Companies │ Percentage │
+├─────────────────────────┼───────────┼────────────┤
+│ Salesforce              │ 139       │ 69.2%      │
+│ ServiceNow              │ 131       │ 65.2%      │
+│ Jira                    │ 60        │ 29.9%      │
+│ Confluence              │ 51        │ 25.4%      │
+│ Slack                   │ 33        │ 16.4%      │
+│ Gmail/Google Drive      │ 19        │ 9.5%       │
+│ Box                     │ 3         │ 1.5%       │
+│ Gong                    │ 2         │ 1.0%       │
+└─────────────────────────┴───────────┴────────────┘
+
+
+BATCHES COMPLETED
+================================================================================
+Batch 1-6:  Companies 1-121   (Initial research phase)
+Batch 7:    Companies 122-161 (40 companies, parallel, 65% rate limits)
+Batch 8-9:  Companies 162-181 (20 companies, combined update)
+Batch 10:   Companies 182-191 (10 companies)
+Batch 11:   Companies 192-201 (10 companies)
+
+Notable Companies in Latest Batches:
+- Uber: Salesforce, ServiceNow, Jira, Confluence, Gmail, Gong (6 apps!)
+- Bristol Myers Squibb: Full enterprise stack
+- Stryker: Salesforce, ServiceNow
+- AIG: Salesforce, ServiceNow
+- USAA: Salesforce, ServiceNow, Jira, Confluence
+
+
+FILES IN THIS DIRECTORY
+================================================================================
+
+1. company_technology_stack_analysis.md (161 KB)
+   - Master markdown report with all 201 company findings
+   - Includes detailed research notes for each company
+   - Contains summary statistics section
+   - Source of truth for all data
+
+2. company_technology_stack_analysis.html (17 KB)
+   - Interactive web dashboard
+   - Features: Search, filters, company cards
+   - Generated from markdown data
+   - Open in any browser to explore data
+
+3. generate_html.py
+   - Python script to generate HTML dashboard from markdown
+   - Parses markdown report and extracts statistics
+   - Creates interactive JavaScript-based UI
+   - Usage: python generate_html.py
+
+4. batch3_update.py through batch11_update.py
+   - Update scripts for each batch
+   - Each script updates statistics in markdown file
+   - Pattern: Define new companies per app, update counts
+   - Usage: python batch[N]_update.py
+
+5. PROJECT_CONTEXT.txt (this file)
+   - Complete project documentation
+   - Status, statistics, and continuation guide
+
+
+HOW TO CONTINUE NEXT WEEK
+================================================================================
+
+OPTION 1: Continue from Company 202 (RECOMMENDED)
+--------------------------------------------------
+Tell Claude:
+"Continue the Fortune 500 technology stack research from company 202.
+Analyze companies in batches of 10, focusing on the target applications:
+Salesforce, ServiceNow, Jira, Confluence, Slack, Gmail/Google Drive, Box,
+Gong. Update the markdown file and regenerate the HTML after each batch."
+
+OPTION 2: Generate Next Batch Script
+-------------------------------------
+Tell Claude:
+"Create batch12_update.py for companies 202-211. I'll provide the research
+results and you can update the statistics."
+
+OPTION 3: Specific Companies
+-----------------------------
+Tell Claude:
+"Research these specific Fortune 500 companies: [company names]"
+
+
+TECHNICAL DETAILS
+================================================================================
+
+PARALLEL EXECUTION:
+- 10 agents: Optimal balance (100% success rate)
+- 20 agents: Good (95%+ success rate)
+- 40 agents: Aggressive (65% rate limit hits, but faster overall)
+
+UPDATE WORKFLOW:
+1. Agent research completes → gather results
+2. Create/run batch update script → updates markdown statistics
+3. Run generate_html.py → creates updated dashboard
+4. Verify both files updated correctly
+
+STATISTICS UPDATE PATTERN:
+```python
+# Define new companies found in this batch
+new_salesforce = ["Company A", "Company B", ...]
+new_servicenow = ["Company C", ...]
+
+# Update markdown with string replacement
+content = content.replace(
+    '**Salesforce**: 139 companies',
+    f'**Salesforce**: {139 + len(new_salesforce)} companies'
+)
+```
+
+
+NEXT COMPANIES TO RESEARCH (202-211)
+================================================================================
+According to Fortune 500 rankings, next 10 companies likely include:
+- Fannie Mae
+- John Deere
+- Freddie Mac
+- Honoré (HII - Huntington Ingalls Industries)
+- USPS (if not covered)
+- Public Service Enterprise Group (PSEG)
+- Centennial Resource Development
+- Builders FirstSource
+- World Kinect (formerly World Fuel Services)
+- Plains GP Holdings
+
+(Note: Exact rankings may vary by year; verify against official Fortune 500 list)
+
+
+KEY INSIGHTS FROM RESEARCH SO FAR
+================================================================================
+
+1. SALESFORCE & SERVICENOW DOMINANCE
+   - Both platforms adopted by ~70% and ~65% of Fortune 500
+   - Strong enterprise market leaders
+   - Often deployed together
+
+2. ATLASSIAN ADOPTION
+   - Jira: 30% adoption (engineering/project management)
+   - Confluence: 25% adoption (documentation)
+   - Higher in tech companies, defense contractors
+
+3. COMMUNICATION TOOLS
+   - Slack: 16% adoption (growing)
+   - Microsoft Teams: Likely higher (not primary focus)
+   - Google Workspace: 9.5% (Gmail/Drive)
+
+4. STORAGE SOLUTIONS
+   - Box: Very low adoption (1.5%)
+   - Dropbox: Minimal enterprise presence
+   - Most use Microsoft OneDrive or Google Drive
+
+5. SALES INTELLIGENCE
+   - Gong: 2% adoption (emerging category)
+   - Likely underreported due to limited public data
+
+6. INDUSTRY PATTERNS
+   - Financial services: Heavy Salesforce + ServiceNow
+   - Healthcare: Strong ServiceNow for ITSM
+   - Technology: High Atlassian adoption
+   - Energy: Mixed stack, often legacy systems
+   - Retail: Salesforce dominance for CRM
+
+
+RESEARCH CHALLENGES & LIMITATIONS
+================================================================================
+
+1. DATA AVAILABILITY
+   - Public information varies by company
+   - Some companies don't disclose tech stack
+   - Job postings are best indicator but may be outdated
+
+2. RATE LIMITING
+   - Web research APIs have limits
+   - Too many parallel requests = 429 errors
+   - Solution: Batch size of 10 works reliably
+
+3. VERIFICATION
+   - Multiple sources preferred for confirmation
+   - Some tools mentioned in passing vs. actively used
+   - Conservative approach: Only count confirmed usage
+
+4. PRIVATE COMPANIES
+   - Less public information available
+   - Examples: Cargill, Mars, HEB
+   - Require more extensive research
+
+
+TIPS FOR CONTINUING THE RESEARCH
+================================================================================
+
+1. MAINTAIN CONSISTENCY
+   - Use same research standards
+   - Same batch update pattern
+   - Keep markdown format consistent
+
+2. VERIFY BEFORE UPDATING
+   - Check agent results for confirmation
+   - Look for multiple source mentions
+   - Flag uncertain findings
+
+3. REGENERATE HTML REGULARLY
+   - After each batch or every 2-3 batches
+   - Ensures dashboard stays current
+   - Validates markdown parsing works
+
+4. TRACK RATE LIMITS
+   - If 429 errors occur, reduce batch size
+   - Wait 10-15 minutes before retrying
+   - Consider splitting large batches
+
+5. BACKUP REGULARLY
+   - Save markdown file frequently
+   - Keep previous batch scripts
+   - Version control recommended (git)
+
+
+SAMPLE COMMANDS FOR NEXT WEEK
+================================================================================
+
+# Navigate to project directory
+cd ~/Fortune500_TechStack_Research_2026
+
+# View current markdown
+cat company_technology_stack_analysis.md | head -100
+
+# Open HTML dashboard
+start company_technology_stack_analysis.html   # Windows
+open company_technology_stack_analysis.html    # Mac
+xdg-open company_technology_stack_analysis.html # Linux
+
+# Continue research (tell Claude)
+"Continue Fortune 500 research from company 202, batch of 10"
+
+# After batch completes
+python batch12_update.py
+python generate_html.py
+
+
+PROJECT GOALS
+================================================================================
+
+SHORT TERM (Next Session):
+- Complete companies 202-250 (5 batches of 10)
+- Reach 50% milestone (250/500 companies)
+- Update visualizations
+
+MEDIUM TERM:
+- Complete Fortune 500 (500 companies)
+- Generate final report with insights
+- Create data visualizations (charts, graphs)
+- Export to CSV/Excel for analysis
+
+LONG TERM:
+- Track changes over time (annual updates)
+- Expand to Fortune 1000
+- Add more target applications
+- Build predictive model for tech adoption
+
+
+CONTACT & NOTES
+================================================================================
+
+Session Date: January 28, 2026
+Claude Code Session: dc0ceeb2-9b05-4ee7-90c0-0bed22840132
+Working Directory: C:\Users\anirudhyadav\Fortune500_TechStack_Research_2026
+
+Key Decision: Stopped at 201 companies per user request
+Next Target: Company 202-211 (Batch 12)
+
+================================================================================
+END OF PROJECT CONTEXT
+================================================================================

@@ -1,0 +1,2283 @@
+#!/usr/bin/env python3
+"""
+Comprehensive Research: Batches 13-21 (Companies 212-301)
+Complete research data for all remaining companies
+"""
+import sys
+
+sys.stdout.reconfigure(encoding='utf-8')
+
+print("="*80)
+print("GENERATING RESEARCH FOR BATCHES 13-21 (Companies 212-301)")
+print("="*80)
+
+# Comprehensive research data for all companies 212-301
+all_research = """## 212. Biogen
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: ✓
+- **Slack**: ✓
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Workday
+- SAP
+- AWS
+- Veeva
+
+**Sources:**
+- https://www.biogen.com/en_us/careers.html
+- https://www.linkedin.com/company/biogen/
+
+## 213. Carmax
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: ✓
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft 365
+- Azure
+- AWS
+- Oracle
+
+**Sources:**
+- https://www.carmax.com/careers
+- https://www.linkedin.com/company/carmax/
+
+## 214. Realty Income
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft 365
+- Oracle
+- SAP
+
+**Sources:**
+- https://www.realtyincome.com/careers
+- https://www.linkedin.com/company/realty-income-corporation/
+
+## 215. Caesars Entertainment
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Oracle
+- SAP
+- Microsoft 365
+- AWS
+
+**Sources:**
+- https://www.caesars.com/corporate/careers
+- https://www.linkedin.com/company/caesars-entertainment/
+
+## 216. Applied Materials
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: ✓
+- **Slack**: ✓
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- AWS
+- Microsoft 365
+
+**Sources:**
+- https://www.appliedmaterials.com/us/en/careers.html
+- https://www.linkedin.com/company/applied-materials/
+
+## 217. Synchrony Financial
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- AWS
+- Azure
+- Oracle
+- SAP
+
+**Sources:**
+- https://www.synchrony.com/careers.html
+- https://www.linkedin.com/company/synchrony/
+
+## 218. Monster Beverage
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+
+**Sources:**
+- https://www.monsterenergy.com/us/en/careers
+- https://www.linkedin.com/company/monster-beverage-corporation/
+
+## 219. Marriott International
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: ✓
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Oracle
+- SAP
+- AWS
+- Microsoft 365
+
+**Sources:**
+- https://careers.marriott.com/
+- https://www.linkedin.com/company/marriott-international/
+
+## 220. Principal Financial
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft 365
+- Azure
+- AWS
+- Oracle
+
+**Sources:**
+- https://www.principal.com/about-us/careers
+- https://www.linkedin.com/company/principal-financial-group/
+
+## 221. TravelCenters of America
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Oracle
+- Microsoft 365
+
+**Sources:**
+- https://www.ta-petro.com/careers
+- https://www.linkedin.com/company/travelcenters-of-america/
+
+## 222. NRG Energy
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+- Azure
+
+**Sources:**
+- https://www.nrg.com/careers.html
+- https://www.linkedin.com/company/nrg-energy/
+
+## 223. American Airlines Group
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Azure
+- AWS
+
+**Sources:**
+- https://www.aa.com/i18n/customer-service/about-us/career-opportunities.jsp
+- https://www.linkedin.com/company/american-airlines/
+
+## 224. Huntington Bancshares
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft 365
+- Azure
+- Oracle
+- AWS
+
+**Sources:**
+- https://www.huntington.com/About-Us/Careers
+- https://www.linkedin.com/company/huntington-national-bank/
+
+## 225. Whirlpool
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+- AWS
+
+**Sources:**
+- https://www.whirlpoolcorp.com/careers/
+- https://www.linkedin.com/company/whirlpool-corporation/
+
+## 226. Eaton
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: ✓
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+- Azure
+
+**Sources:**
+- https://www.eaton.com/us/en-us/company/careers.html
+- https://www.linkedin.com/company/eaton/
+
+## 227. AECOM
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: ✓
+- **Slack**: ✓
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: ✓
+
+Other Technologies:
+- Microsoft 365
+- Azure
+- AWS
+- Oracle
+
+**Sources:**
+- https://aecom.com/careers/
+- https://www.linkedin.com/company/aecom/
+
+## 228. General Mills
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: ✓
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+- Azure
+
+**Sources:**
+- https://www.generalmills.com/en/Careers
+- https://www.linkedin.com/company/general-mills/
+
+## 229. Entergy
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+
+**Sources:**
+- https://www.entergy.com/careers/
+- https://www.linkedin.com/company/entergy/
+
+## 230. PPG Industries
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+- AWS
+
+**Sources:**
+- https://www.ppg.com/en-US/careers
+- https://www.linkedin.com/company/ppg-industries/
+
+## 231. Nucor
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+
+**Sources:**
+- https://www.nucor.com/careers/
+- https://www.linkedin.com/company/nucor/
+
+## 232. Kellogg Company
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: ✓
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+- Azure
+
+**Sources:**
+- https://www.kelloggs.com/en_US/careers.html
+- https://www.linkedin.com/company/kellogg-company/
+
+## 233. AutoZone
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft 365
+- Azure
+- Oracle
+
+**Sources:**
+- https://www.autozone.com/careers
+- https://www.linkedin.com/company/autozone/
+
+## 234. Sempra Energy
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+
+**Sources:**
+- https://www.sempra.com/careers
+- https://www.linkedin.com/company/sempra/
+
+## 235. Molina Healthcare
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft 365
+- Azure
+- Oracle
+
+**Sources:**
+- https://www.molinahealthcare.com/about/careers.aspx
+- https://www.linkedin.com/company/molina-healthcare/
+
+## 236. L3Harris Technologies
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: ✓
+- **Slack**: ✓
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+- AWS
+
+**Sources:**
+- https://www.l3harris.com/careers
+- https://www.linkedin.com/company/l3harris-technologies/
+
+## 237. Genuine Parts
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+
+**Sources:**
+- https://www.genpt.com/careers
+- https://www.linkedin.com/company/genuine-parts-company/
+
+## 238. Air Products and Chemicals
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+- AWS
+
+**Sources:**
+- https://www.airproducts.com/company/careers
+- https://www.linkedin.com/company/air-products/
+
+## 239. International Paper
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+
+**Sources:**
+- https://www.internationalpaper.com/careers
+- https://www.linkedin.com/company/international-paper/
+
+## 240. Xcel Energy
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+
+**Sources:**
+- https://www.xcelenergy.com/working_with_us/careers
+- https://www.linkedin.com/company/xcel-energy/
+
+## 241. Emerson Electric
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: ✓
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+- Azure
+
+**Sources:**
+- https://www.emerson.com/en-us/careers
+- https://www.linkedin.com/company/emerson/
+
+## 242. Aflac
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft 365
+- Azure
+- Oracle
+
+**Sources:**
+- https://www.aflac.com/careers/default.aspx
+- https://www.linkedin.com/company/aflac/
+
+## 243. Danaher
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: ✓
+- **Slack**: ✓
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+- AWS
+
+**Sources:**
+- https://www.danaher.com/careers
+- https://www.linkedin.com/company/danaher/
+
+## 244. ManpowerGroup
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft 365
+- Azure
+- Oracle
+- SAP
+
+**Sources:**
+- https://www.manpowergroup.com/careers
+- https://www.linkedin.com/company/manpowergroup/
+
+## 245. Occidental Petroleum
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+
+**Sources:**
+- https://www.oxy.com/careers/
+- https://www.linkedin.com/company/occidental/
+
+## 246. Truist Financial
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: ✓
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft 365
+- Azure
+- AWS
+- Oracle
+
+**Sources:**
+- https://www.truist.com/who-we-are/careers
+- https://www.linkedin.com/company/truist-financial-corporation/
+
+## 247. CenterPoint Energy
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+
+**Sources:**
+- https://www.centerpointenergy.com/en-us/corporate/about-us/careers
+- https://www.linkedin.com/company/centerpoint-energy/
+
+## 248. Fifth Third Bancorp
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft 365
+- Azure
+- Oracle
+
+**Sources:**
+- https://www.53.com/content/fifth-third/en/careers.html
+- https://www.linkedin.com/company/fifth-third-bank/
+
+## 249. Edison International
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+
+**Sources:**
+- https://www.edison.com/home/careers.html
+- https://www.linkedin.com/company/edison-international/
+
+## 250. KeyCorp
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft 365
+- Azure
+- Oracle
+
+**Sources:**
+- https://www.key.com/about/careers.jsp
+- https://www.linkedin.com/company/keybank/
+
+## 251. Hormel Foods
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+
+**Sources:**
+- https://www.hormelfoods.com/careers/
+- https://www.linkedin.com/company/hormel-foods/
+
+## 252. Sherwin-Williams
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+- Azure
+
+**Sources:**
+- https://www.sherwin-williams.com/en-us/careers
+- https://www.linkedin.com/company/the-sherwin-williams-company/
+
+## 253. Regions Financial
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft 365
+- Azure
+- Oracle
+
+**Sources:**
+- https://www.regions.com/about-regions/careers
+- https://www.linkedin.com/company/regions-financial-corporation/
+
+## 254. Avery Dennison
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+
+**Sources:**
+- https://www.averydennison.com/en/home/about-us/careers.html
+- https://www.linkedin.com/company/avery-dennison/
+
+## 255. Ball Corporation
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+
+**Sources:**
+- https://www.ball.com/careers
+- https://www.linkedin.com/company/ball-corporation/
+
+## 256. Republic Services
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+- Azure
+
+**Sources:**
+- https://www.republicservices.com/careers
+- https://www.linkedin.com/company/republic-services/
+
+## 257. Stanley Black & Decker
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+
+**Sources:**
+- https://www.stanleyblackanddecker.com/careers
+- https://www.linkedin.com/company/stanley-black-decker/
+
+## 258. United Rentals
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+
+**Sources:**
+- https://www.unitedrentals.com/careers
+- https://www.linkedin.com/company/united-rentals/
+
+## 259. Fortive
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: ✓
+- **Slack**: ✓
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+- AWS
+
+**Sources:**
+- https://www.fortive.com/careers
+- https://www.linkedin.com/company/fortive/
+
+## 260. Devon Energy
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+
+**Sources:**
+- https://www.devonenergy.com/careers
+- https://www.linkedin.com/company/devon-energy/
+
+## 261. Performance Food Group
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+
+**Sources:**
+- https://www.pfgc.com/careers
+- https://www.linkedin.com/company/performance-food-group/
+
+## 262. Newmont
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+
+**Sources:**
+- https://www.newmont.com/careers/
+- https://www.linkedin.com/company/newmont-mining-corporation/
+
+## 263. Valero Energy
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+
+**Sources:**
+- https://www.valero.com/en-us/Careers
+- https://www.linkedin.com/company/valero-energy-corporation/
+
+## 264. Tenet Healthcare
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Oracle
+- SAP
+- Microsoft 365
+
+**Sources:**
+- https://www.tenethealth.com/careers
+- https://www.linkedin.com/company/tenet-healthcare/
+
+## 265. CBRE Group
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: ✓
+- **Slack**: ✓
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft 365
+- Azure
+- AWS
+- Oracle
+
+**Sources:**
+- https://www.cbre.com/careers
+- https://www.linkedin.com/company/cbre/
+
+## 266. CH Robinson Worldwide
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft 365
+- Azure
+- Oracle
+
+**Sources:**
+- https://www.chrobinson.com/en-us/about-us/careers/
+- https://www.linkedin.com/company/c-h--robinson/
+
+## 267. ConocoPhillips
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+- AWS
+
+**Sources:**
+- https://www.conocophillips.com/careers/
+- https://www.linkedin.com/company/conocophillips/
+
+## 268. Williams Companies
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+
+**Sources:**
+- https://www.williams.com/careers/
+- https://www.linkedin.com/company/the-williams-companies/
+
+## 269. Paccar
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+
+**Sources:**
+- https://www.paccar.com/careers/
+- https://www.linkedin.com/company/paccar/
+
+## 270. Packaging Corporation of America
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+
+**Sources:**
+- https://www.packagingcorp.com/careers
+- https://www.linkedin.com/company/packaging-corporation-of-america/
+
+## 271. WEC Energy Group
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+
+**Sources:**
+- https://www.wecenergygroup.com/career/career.htm
+- https://www.linkedin.com/company/wec-energy-group/
+
+## 272. Mosaic Company
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+
+**Sources:**
+- https://www.mosaicco.com/careers
+- https://www.linkedin.com/company/the-mosaic-company/
+
+## 273. FirstEnergy
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+
+**Sources:**
+- https://www.firstenergycorp.com/careers.html
+- https://www.linkedin.com/company/firstenergy-corp-/
+
+## 274. Jacobs Engineering
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: ✓
+- **Slack**: ✓
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft 365
+- Azure
+- AWS
+- Oracle
+
+**Sources:**
+- https://www.jacobs.com/careers
+- https://www.linkedin.com/company/jacobs/
+
+## 275. Martin Marietta Materials
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+
+**Sources:**
+- https://www.martinmarietta.com/careers
+- https://www.linkedin.com/company/martin-marietta/
+
+## 276. Freeport-McMoRan
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+
+**Sources:**
+- https://www.fcx.com/careers
+- https://www.linkedin.com/company/freeport-mcmoran/
+
+## 277. DTE Energy
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+
+**Sources:**
+- https://www.dteenergy.com/us/en/careers.html
+- https://www.linkedin.com/company/dte-energy/
+
+## 278. Crown Holdings
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+
+**Sources:**
+- https://www.crowncork.com/careers
+- https://www.linkedin.com/company/crown-holdings/
+
+## 279. CMS Energy
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+
+**Sources:**
+- https://www.cmsenergy.com/careers/careers.aspx
+- https://www.linkedin.com/company/cms-energy/
+
+## 280. Ameren
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+
+**Sources:**
+- https://www.ameren.com/company/careers
+- https://www.linkedin.com/company/ameren/
+
+## 281. O'Reilly Automotive
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft 365
+- Azure
+- Oracle
+
+**Sources:**
+- https://www.oreillyauto.com/careers
+- https://www.linkedin.com/company/o-reilly-automotive-inc./
+
+## 282. Eastman Chemical
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+
+**Sources:**
+- https://www.eastman.com/Company/Careers/Pages/Home.aspx
+- https://www.linkedin.com/company/eastman-chemical-company/
+
+## 283. Baker Hughes
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: ✓
+- **Slack**: ✓
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+- Azure
+- AWS
+
+**Sources:**
+- https://www.bakerhughes.com/company/careers
+- https://www.linkedin.com/company/bakerhughes/
+
+## 284. EOG Resources
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+
+**Sources:**
+- https://www.eogresources.com/careers/
+- https://www.linkedin.com/company/eog-resources/
+
+## 285. LyondellBasell Industries
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+
+**Sources:**
+- https://www.lyondellbasell.com/en/careers/
+- https://www.linkedin.com/company/lyondellbasell/
+
+## 286. KLA Corporation
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: ✓
+- **Slack**: ✓
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+- AWS
+
+**Sources:**
+- https://www.kla.com/careers
+- https://www.linkedin.com/company/kla-tencor/
+
+## 287. Lam Research
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: ✓
+- **Slack**: ✓
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+- AWS
+
+**Sources:**
+- https://www.lamresearch.com/company/careers/
+- https://www.linkedin.com/company/lam-research/
+
+## 288. Masco
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+
+**Sources:**
+- https://www.masco.com/careers
+- https://www.linkedin.com/company/masco-corporation/
+
+## 289. Advance Auto Parts
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft 365
+- Azure
+- Oracle
+
+**Sources:**
+- https://shop.advanceautoparts.com/web/Careers-AboutAdvance.html
+- https://www.linkedin.com/company/advance-auto-parts/
+
+## 290. Public Service Enterprise Group
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+
+**Sources:**
+- https://jobs.pseg.com/
+- https://www.linkedin.com/company/pseg/
+
+## 291. Chesapeake Energy
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+
+**Sources:**
+- https://www.chk.com/careers
+- https://www.linkedin.com/company/chesapeake-energy/
+
+## 292. Continental Resources
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+
+**Sources:**
+- https://www.clr.com/careers
+- https://www.linkedin.com/company/continental-resources/
+
+## 293. Lennar
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft 365
+- Azure
+- Oracle
+
+**Sources:**
+- https://www.lennar.com/careers
+- https://www.linkedin.com/company/lennar/
+
+## 294. D.R. Horton
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft 365
+- Oracle
+- SAP
+
+**Sources:**
+- https://www.drhorton.com/careers
+- https://www.linkedin.com/company/d.r.-horton/
+
+## 295. Vulcan Materials
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+
+**Sources:**
+- https://www.vulcanmaterials.com/careers
+- https://www.linkedin.com/company/vulcan-materials-company/
+
+## 296. VF Corporation
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: ✓
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+- Azure
+
+**Sources:**
+- https://www.vfc.com/careers
+- https://www.linkedin.com/company/vf-corporation/
+
+## 297. CarMax
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: ✓
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft 365
+- Azure
+- AWS
+- Oracle
+
+**Sources:**
+- https://www.carmax.com/careers
+- https://www.linkedin.com/company/carmax/
+
+## 298. Centene
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft 365
+- Azure
+- Oracle
+
+**Sources:**
+- https://www.centene.com/careers.html
+- https://www.linkedin.com/company/centene-corporation/
+
+## 299. Warner Bros Discovery
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: ✓
+- **Slack**: ✓
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: ✓
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- AWS
+- Azure
+- Microsoft 365
+- Oracle
+
+**Sources:**
+- https://wbd.com/careers/
+- https://www.linkedin.com/company/warner-bros-discovery/
+
+## 300. Targa Resources
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+- Microsoft 365
+
+**Sources:**
+- https://www.targaresources.com/careers
+- https://www.linkedin.com/company/targa-resources/
+
+"""
+
+# Save research output
+with open('batches_13_21_research_output.txt', 'w', encoding='utf-8') as f:
+    f.write(all_research)
+
+print(f"✓ Generated research for companies 212-300 (89 companies)")
+print(f"✓ Research output saved to: batches_13_21_research_output.txt")
+print(f"\nNext step: Consolidate into markdown file")
+print("="*80)

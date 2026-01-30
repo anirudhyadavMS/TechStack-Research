@@ -1,0 +1,145 @@
+================================================================================
+3P CONNECTORS UPDATE - January 28, 2026
+================================================================================
+
+SOURCE FILE:
+C:\Users\anirudhyadav\Downloads\VIP Customer Key Metrics Overview.xlsx
+
+UPDATES APPLIED:
+- Added "3P Connectors (Microsoft Copilot)" section to markdown file
+- Updated HTML dashboard to display 3P connectors with green styling
+- Generated company_3p_apps.json for reference
+
+================================================================================
+COMPANIES UPDATED (5 companies)
+================================================================================
+
+1. EY (Ernst & Young) - 7 connectors
+   - Aha! Features
+   - Aha! Ideas
+   - Azure DevOps Work Items
+   - Azure SQL
+   - SDK
+   - ServiceNow Catalog
+   - ServiceNow Knowledge
+
+2. Koch Industries - 10 connectors
+   - Confluence
+   - Enterprise Websites
+   - File Share
+   - GitHub Cloud Issues
+   - GitHub Cloud Knowledge
+   - GitHub Cloud Pull Requests
+   - Non-MS(Others)
+   - ServiceNow Catalog
+   - ServiceNow Knowledge
+   - ServiceNow Tickets
+
+3. LTIMindtree - 3 connectors
+   - ServiceNow Catalog
+   - ServiceNow Knowledge
+   - ServiceNow Tickets
+
+4. Qualcomm - 5 connectors
+   - Azure DevOps Work Items
+   - Confluence
+   - Enterprise Websites
+   - SDK
+   - ServiceNow Tickets
+
+5. Wells Fargo - 1 connector
+   - ServiceNow Knowledge
+
+================================================================================
+COMPANIES NOT IN DATASET (3 companies)
+================================================================================
+
+These companies were in the Excel file but not in our Fortune 500 list:
+
+1. Infosys - 3 connectors
+   (Not a Fortune 500 company, IT services company based in India)
+
+2. Manhattan Associates - 7 connectors
+   (Smaller company not in Fortune 500 range we're tracking)
+
+3. MSIT (Microsoft IT) - 25 connectors
+   (Internal Microsoft IT, not a separate Fortune 500 entity)
+
+================================================================================
+VISUAL STYLING
+================================================================================
+
+In the HTML dashboard, 3P Connectors are displayed with:
+- Green background (#e8f5e9)
+- Dark green text (#2e7d32)
+- Green border (#4caf50)
+- Section title: "3P Connectors (Microsoft Copilot)"
+
+This distinguishes them from:
+- Target Applications (blue tags)
+- Other Technologies (gray tags)
+
+================================================================================
+KEY INSIGHTS
+================================================================================
+
+Most Common 3P Connectors:
+1. ServiceNow Knowledge - 4 companies
+2. ServiceNow Catalog - 4 companies
+3. ServiceNow Tickets - 3 companies
+4. Confluence - 3 companies
+5. Azure DevOps Work Items - 2 companies
+6. Enterprise Websites - 2 companies
+
+Notable Patterns:
+- ServiceNow connectors are most prevalent (all 5 companies)
+- Koch Industries has the most diverse set of connectors (10)
+- Microsoft collaboration tools (GitHub, Azure DevOps) are common
+- MSIT (internal) has by far the most connectors (25) - shows Microsoft's
+  own extensive integration ecosystem
+
+================================================================================
+FILES UPDATED
+================================================================================
+
+1. company_technology_stack_analysis.md
+   - Added "### 3P Connectors (Microsoft Copilot)" sections to 5 companies
+
+2. company_technology_stack_analysis.html
+   - Regenerated with 3P connectors display
+   - New green styling for connector tags
+
+3. generate_html.py
+   - Updated parsing logic to extract 3P connectors
+   - Added HTML rendering for connectors
+   - Added CSS styling for .connector class
+
+4. New files created:
+   - company_3p_apps.json (raw data from Excel)
+   - extract_excel_apps.py (extraction script)
+   - add_3p_apps_to_markdown.py (markdown update script)
+   - read_excel.py (Excel reading utility)
+
+================================================================================
+NEXT STEPS
+================================================================================
+
+To add more 3P connector data in the future:
+
+1. Update the Excel file with new companies/connectors
+2. Run: python extract_excel_apps.py
+3. Run: python add_3p_apps_to_markdown.py
+4. Run: python generate_html.py
+
+Or manually add to markdown using this format:
+
+### 3P Connectors (Microsoft Copilot)
+
+Confirmed connectors in use:
+- **Connector Name 1**
+- **Connector Name 2**
+- **Connector Name 3**
+
+================================================================================
+END OF UPDATE SUMMARY
+================================================================================

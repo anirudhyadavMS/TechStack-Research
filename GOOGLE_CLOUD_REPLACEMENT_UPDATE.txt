@@ -1,0 +1,210 @@
+================================================================================
+GOOGLE CLOUD REPLACEMENT UPDATE - January 28, 2026
+================================================================================
+
+CHANGE SUMMARY:
+Replaced "Google Cloud" tracking with separate "Gmail" and "Google Drive"
+tracking to better align with target application focus.
+
+================================================================================
+CHANGES MADE
+================================================================================
+
+1. MARKDOWN FILE (company_technology_stack_analysis.md)
+   - Replaced "Google Cloud" in "Other Notable Apps" sections
+   - Split into separate "Gmail" and "Google Drive" entries
+   - Kept detailed Google Cloud references in descriptions/sources intact
+
+   Before: "- Google Cloud"
+   After:  "- Gmail"
+           "- Google Drive"
+
+2. HTML GENERATOR (generate_html.py)
+   - Removed: if 'Google Cloud' in company_text
+   - Added:   if 'Gmail' in company_text: other_apps.append('Gmail')
+   - Added:   if 'Google Drive' in company_text: other_apps.append('Google Drive')
+
+3. HTML DASHBOARD (company_technology_stack_analysis.html)
+   - Regenerated with new app tracking
+   - Dropdown filter now shows Gmail and Google Drive separately
+   - Google Cloud removed from filter options
+
+================================================================================
+STATISTICS
+================================================================================
+
+Markdown Changes:
+- "Google Cloud" mentions reduced: 42 → 35
+- Remaining mentions are in detailed text (partnerships, sources, URLs)
+- Added ~7 new entries for Gmail/Google Drive split
+
+HTML Dashboard - Other Apps Counts:
+┌────────────────────────┬───────────┐
+│ Application            │ Companies │
+├────────────────────────┼───────────┤
+│ Microsoft 365/Azure    │ 43        │
+│ SAP                    │ 35        │
+│ Gmail                  │ 35        │ ← NEW
+│ Google Drive           │ 29        │ ← NEW
+│ Oracle                 │ 28        │
+│ Workday                │ 28        │
+│ AWS                    │ 25        │
+└────────────────────────┴───────────┘
+
+✓ Google Cloud: REMOVED (0 companies)
+
+================================================================================
+RATIONALE
+================================================================================
+
+Why Replace Google Cloud with Gmail/Google Drive?
+
+1. TARGET APP ALIGNMENT
+   - Our research focuses on specific enterprise applications
+   - Gmail and Google Drive are actual collaboration/productivity apps
+   - "Google Cloud" is infrastructure, not an application
+
+2. CONSISTENCY WITH OTHER TRACKING
+   - We track Salesforce (app), not Salesforce Platform
+   - We track Slack (app), not Slack infrastructure
+   - We track Jira/Confluence (apps), not Atlassian Cloud
+
+3. BETTER GRANULARITY
+   - Gmail and Google Drive can be adopted separately
+   - Separate tracking provides more insight into Google Workspace adoption
+   - More comparable to Microsoft 365/Azure approach
+
+4. TARGET APPS FOCUS
+   - Original research goal: Gmail, Google Drive, Slack, Jira, etc.
+   - These are the applications users interact with daily
+   - Infrastructure choices are captured separately
+
+================================================================================
+EXAMPLES OF CHANGES
+================================================================================
+
+BEFORE:
+-------
+## DANONE
+**Other Notable Apps:**
+- SAP (ERP on Google Cloud)
+- Google Cloud (major cloud platform)
+- Workday
+
+AFTER:
+------
+## DANONE
+**Other Notable Apps:**
+- SAP
+- Gmail
+- Google Drive
+- Workday
+
+---
+
+BEFORE:
+-------
+## GENERAL MOTORS
+**Other Notable Apps:**
+- Google Cloud (AI partnership, Dialogflow for OnStar)
+- Private data centers
+
+AFTER:
+------
+## GENERAL MOTORS
+**Other Notable Apps:**
+- Gmail
+- Google Drive
+- Private data centers
+
+================================================================================
+WHAT REMAINED UNCHANGED
+================================================================================
+
+The following Google Cloud references were NOT changed (intentionally):
+- Detailed descriptions: "migrating to Google Cloud Platform"
+- Partnership mentions: "Google Cloud partnership for AI"
+- Technical details: "uses Google Cloud for BigQuery"
+- Source URLs: "cloud.google.com/blog/..."
+- Infrastructure context: "SAP on Google Cloud"
+
+These remain because they provide important technical context about
+infrastructure choices and partnerships, even though they're not our
+target tracking applications.
+
+================================================================================
+IMPACT ON EXISTING DATA
+================================================================================
+
+✓ All 201 companies remain in dataset
+✓ Target apps (Salesforce, ServiceNow, Jira, etc.) unchanged
+✓ Statistics for main apps unchanged
+✓ 3P Connectors unchanged
+✓ All source links preserved
+✓ Historical context maintained
+
+Only change: "Google Cloud" in app lists → "Gmail" + "Google Drive"
+
+================================================================================
+DROPDOWN FILTER UPDATE
+================================================================================
+
+The HTML dashboard dropdown now includes:
+- Gmail (35 companies)
+- Google Drive (29 companies)
+
+Users can filter to see:
+- Which companies use Gmail
+- Which companies use Google Drive
+- Which companies use both (Google Workspace)
+
+================================================================================
+FILES UPDATED
+================================================================================
+
+1. company_technology_stack_analysis.md
+   - Google Cloud → Gmail + Google Drive in app lists
+
+2. generate_html.py
+   - Updated app detection logic
+   - Removed Google Cloud tracking
+   - Added Gmail and Google Drive tracking
+
+3. company_technology_stack_analysis.html
+   - Regenerated with new app data
+   - Updated dropdown options
+
+4. New helper scripts:
+   - replace_google_cloud_v2.py (replacement logic)
+
+================================================================================
+VERIFICATION
+================================================================================
+
+Run this command to verify:
+```bash
+cd C:\Users\anirudhyadav\Fortune500_TechStack_Research_2026
+python -c "
+import json, re
+with open('company_technology_stack_analysis.html', 'r') as f:
+    html = f.read()
+match = re.search(r'const companies = (\[.*?\]);', html, re.DOTALL)
+companies = json.loads(match.group(1))
+apps = {}
+for c in companies:
+    for app in c.get('other_apps', []):
+        apps[app] = apps.get(app, 0) + 1
+print('Gmail:', apps.get('Gmail', 0))
+print('Google Drive:', apps.get('Google Drive', 0))
+print('Google Cloud:', apps.get('Google Cloud', 0))
+"
+```
+
+Expected output:
+- Gmail: 35
+- Google Drive: 29
+- Google Cloud: 0
+
+================================================================================
+END OF UPDATE SUMMARY
+================================================================================

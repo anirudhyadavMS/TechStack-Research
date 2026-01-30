@@ -1,0 +1,94 @@
+================================================================================
+GMAIL AND GOOGLE DRIVE ADDITIONS - January 28, 2026
+================================================================================
+
+TASK: Add Gmail and Google Drive to specific companies as confirmed target apps
+
+================================================================================
+COMPANIES UPDATED
+================================================================================
+
+1. CITIGROUP (Company #45)
+   - Added: Gmail ✓ CONFIRMED
+   - Added: Google Drive ✓ CONFIRMED
+   - Location: CONFIRMED ENTERPRISE APPLICATIONS section
+   - Note: Used as part of enterprise collaboration stack
+
+2. ABBVIE (Company #36)
+   - Added: Google Drive - CONFIRMED
+   - Location: Confirmed Enterprise Software section
+   - Note: Used as part of enterprise collaboration and storage solutions
+
+3. EXXON MOBIL (Company #48)
+   - Added: Google Drive ✓ CONFIRMED
+   - Location: Additional Confirmed Enterprise Tools section
+   - Note: Used for document collaboration and storage
+
+================================================================================
+TECHNICAL IMPLEMENTATION
+================================================================================
+
+Two scripts were created to handle the different markdown formats:
+
+Script 1: add_gmail_gdrive_v2.py
+---------------------------------
+- Handled Citigroup's detailed format with "CONFIRMED ENTERPRISE APPLICATIONS"
+- Added both Gmail and Google Drive to Citigroup
+- Pattern used: Found section headers and inserted new app entries
+
+Script 2: add_gdrive_abbvie_exxon.py
+-------------------------------------
+- Handled Abbvie and Exxon Mobil's different section formats
+- Added Google Drive to "Confirmed Enterprise Software" (Abbvie)
+- Added Google Drive to "Additional Confirmed Enterprise Tools" (Exxon)
+- Also removed Google Drive from "NOT Confirmed" sections
+
+================================================================================
+HTML DASHBOARD UPDATE
+================================================================================
+
+After markdown updates, regenerated HTML dashboard using generate_html.py:
+- HTML now correctly extracts Gmail and Google Drive as target apps
+- Uses existing extraction logic with **AppName** ✓ pattern
+- All three companies will appear when filtering by Gmail or Google Drive
+
+Statistics after update:
+- Total companies: 201
+- Salesforce: 139 companies
+- ServiceNow: 131 companies
+- Jira: 60 companies
+- Slack: 33 companies
+- Gmail: 1 company (Citigroup)
+- Google Drive: 3 companies (Citigroup, Abbvie, Exxon Mobil)
+
+================================================================================
+NOTES
+================================================================================
+
+- These additions are distinct from the general "Google Cloud" tracking
+- Google Cloud remains tracked for 15 companies as infrastructure/platform
+- Gmail and Google Drive are now tracked as specific target applications
+- This aligns with the user's specific knowledge about these three companies
+
+================================================================================
+FILES MODIFIED
+================================================================================
+
+1. company_technology_stack_analysis.md
+   - Added Gmail entry to Citigroup
+   - Added Google Drive entries to Citigroup, Abbvie, Exxon Mobil
+   - Removed conflicting "NOT USED" entries
+
+2. company_technology_stack_analysis.html
+   - Regenerated to reflect new target apps
+
+3. New scripts created:
+   - add_gmail_gdrive_v2.py
+   - add_gdrive_abbvie_exxon.py
+
+4. Documentation:
+   - GMAIL_GDRIVE_ADDITIONS_UPDATE.txt (this file)
+
+================================================================================
+END OF UPDATE SUMMARY
+================================================================================

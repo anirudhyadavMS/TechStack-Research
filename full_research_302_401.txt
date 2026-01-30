@@ -1,0 +1,2339 @@
+## 302. Altria Group
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Oracle
+- SAP
+- Microsoft Office
+
+**Sources:**
+- https://www.appsruntheworld.com/customers-database/customers/view/alcoa-corporation-united-states
+
+## 303. Edison International
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Palantir Foundry
+- MicroStrategy
+- Rackspace Cloud
+
+**Sources:**
+- https://www.cloudcreations.com/ongoing-salesforce-solutions-cal-edison/
+
+## 304. KeyCorp
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Google Cloud Platform
+- Kubernetes
+- Oracle
+- Workday
+- Tableau
+
+**Sources:**
+- https://www.americanbanker.com/news/keybank-moves-more-applications-to-google-cloud
+
+## 305. Alcoa
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Oracle
+- SAP
+- Microsoft Power BI
+- Workday
+
+**Sources:**
+- https://alcoa.wd5.myworkdayjobs.com/Careers
+
+## 306. Boston Scientific
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP S/4 HANA
+- Workday
+- Microsoft Dynamics 365
+- Oracle
+
+**Sources:**
+- https://www.salesforce.com/plus/experience/world_tour/series/best_of_world_tour_boston_2024/episode/episode-s1e8
+
+## 307. DaVita
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- VMware Cloud
+- AWS
+- Azure
+
+**Sources:**
+- https://enlyft.com/tech/company/davita.com
+
+## 308. PPL Corporation
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft Azure
+- Microsoft 365
+- MicroStrategy
+
+**Sources:**
+- https://www.appsruntheworld.com/customers-database/customers/view/ppl-electric-utilities-usa
+
+## 309. Hasbro
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft Azure
+- Azure DevOps
+- GitHub
+- SAP PLM
+
+**Sources:**
+- https://jobs.hasbro.com/
+
+## 310. Omnicom Group
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- AWS
+- Microsoft Azure
+- Google Cloud Platform
+- Microsoft 365
+
+**Sources:**
+- https://aws.amazon.com/solutions/case-studies/omnicom-case-study/
+
+## 311. Ross Stores
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Oracle
+- VMware
+- MicroStrategy
+
+**Sources:**
+- https://www.appsruntheworld.com/customers-database/customers/view/ross-stores-inc-united-states
+
+## 312. United Airlines Holdings
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: ✓
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- AWS
+- Atlassian Cloud
+- Docusign
+
+**Sources:**
+- https://www.servicenow.com/community/knowledge-blog/united-airlines-expanding-the-employee-experience-beyond-hr/ba-p/2331367
+
+## 313. Domino's Pizza
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft Azure
+- AWS
+- Microsoft Dynamics 365
+
+**Sources:**
+- https://ir.dominos.com/news-releases/news-release-details/dominosr-and-microsoft-cook-ai-driven-innovation-alliance
+
+## 314. Hilton Worldwide
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: ✓
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- AWS
+- Oracle HCM Cloud
+- Atlassian Bamboo
+
+**Sources:**
+- https://www.whereoware.com/work/hotel-customer-service-platform-reduces-training-80
+
+## 315. Alaska Air Group
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft Azure
+- Microsoft 365
+- GitHub
+
+**Sources:**
+- https://news.microsoft.com/source/features/digital-transformation/how-alaska-airlines-uses-technology
+
+## 316. S&P Global
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Workday
+
+**Sources:**
+- https://careers.spglobal.com/jobs/323672
+
+## 317. Clorox
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Workday
+- SAP S/4HANA Cloud
+
+**Sources:**
+- https://www.constellationr.com/blog-news/insights/clorox-go-live-new-sap-erp-system
+
+## 318. Campbell Soup
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft Azure
+- AWS
+- SAP HANA
+
+**Sources:**
+- https://www.microsoft.com/en/customers/story/862081-campbell-soup-company-consumer-goods-azure
+
+## 319. Dr Pepper Snapple Group
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Workday
+- Google Cloud Platform
+
+**Sources:**
+- https://www.sap.com/documents/2025/03/aa905017-fc7e-0010-bca6-c68f7e60039b.html
+
+## 320. AutoNation
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- CDK Global DMS
+
+**Sources:**
+- https://www.salary.com/research/salary/employer/autonation-inc/customer-relationship-crm-supervisor-salesforce-salary
+
+## 321. T-Mobile US
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- AWS
+- Google Cloud
+- Microsoft Azure
+- Microsoft 365
+
+**Sources:**
+- https://www.ibm.com/services/client-stories/t-mobile
+
+## 322. KBR
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: ✓
+- **Confluence**: ✓
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft 365
+- Microsoft Dynamics 365
+- Workday
+
+**Sources:**
+- https://kbr.my.salesforce.com/
+
+## 323. Weyerhaeuser
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft Azure
+- AWS
+- Microsoft Power BI
+
+**Sources:**
+- https://www.hashicorp.com/en/resources/how-weyerhaeuser-automates-secrets-with-vault-and-terraform
+
+## 324. Mohawk Industries
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+
+**Sources:**
+- https://careers.mohawkind.com/
+
+## 325. Nielsen Holdings
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: ✓
+- **Google Drive**: ✓
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Google Workspace
+- Google Cloud
+- AWS
+
+**Sources:**
+- https://workspace.google.com/customers/nielsen-salesforce/
+
+## 326. Dollar Tree
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP S/4HANA
+- Workday
+- Snowflake
+- Google Cloud
+
+**Sources:**
+- https://dollartree.wd5.myworkdayjobs.com/dollartreeus
+
+## 327. Bed Bath & Beyond
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Oracle Cloud ERP
+- Google Cloud
+
+**Sources:**
+- https://www.salesforce.com/news/stories/beyond-inc-customer-news/
+
+## 328. Ralph Lauren
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- AWS
+- Azure
+- SAP
+
+**Sources:**
+- https://careers.ralphlauren.com/
+
+## 329. PVH Corp
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Workday
+- Microsoft 365
+
+**Sources:**
+- https://blog.workday.com/en-us/creating-employee-first-digital-experiences-pvh-corp.html
+
+## 330. Gap Inc
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft Azure
+- Workday
+
+**Sources:**
+- https://www.cnbc.com/2018/11/08/microsoft-azure-picks-up-cloud-business-from-gap.html
+
+## 331. L Brands
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft Azure
+- SAP
+
+**Sources:**
+- https://leadiq.com/c/l-brands/5a1d89b52400002400630c7c
+
+## 332. Kohl's
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Workday
+
+**Sources:**
+- https://kohls.wd1.myworkdayjobs.com/kohlscareers
+
+## 333. Macy's
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: ✓
+- **Box**: ✓
+
+Other Technologies:
+- Microsoft 365
+- Oracle
+- Google Cloud Platform
+
+**Sources:**
+- https://www.microsoft.com/en-us/microsoft-365/blog/2016/11/01/macys-sets-the-standard-for-empowering-employees-using-office-365/
+
+## 334. Nordstrom
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: ✓
+- **Slack**: ✓
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- AWS
+- Workday
+
+**Sources:**
+- https://www.atlassian.com/customers/united-airlines
+
+## 335. Foot Locker
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Oracle
+- SAP
+- AWS
+
+**Sources:**
+- https://www.linkedin.com/jobs/view/senior-manager-servicenow-platform-at-foot-locker-3983363721
+
+## 336. Advance Auto Parts
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- AWS
+- Azure
+- Google Cloud
+
+**Sources:**
+- https://www.partnerbase.com/advance-auto-parts
+
+## 337. O'Reilly Automotive
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- AWS
+- Azure
+- Google Cloud
+- Workday
+
+**Sources:**
+- https://careers.oreillyauto.com/us/en/
+
+## 338. AutoZone
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP
+- Oracle
+
+**Sources:**
+- https://www.autozone.com/careers
+
+## 339. Tiffany & Co
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Google Cloud Platform
+- AWS
+- Azure
+- SAP
+
+**Sources:**
+- https://www.appsruntheworld.com/customers-database/customers/view/tiffany-co-united-states
+
+## 340. Signet Jewelers
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- AWS
+- Azure
+- Microsoft 365
+
+**Sources:**
+- https://www.glassdoor.com/Salary/Signet-Jewelers-Salesforce-Developer-Salaries-E5758_D_KO16,36.htm
+
+## 341. Williams-Sonoma
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: ✓
+- **Slack**: ✓
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft Azure
+- AWS
+- Oracle
+- SAP
+- NetSuite
+
+**Sources:**
+- https://www.salesforce.com/resources/customer-stories/williams-sonoma-ai-data-customer-engagement/
+
+## 342. Dollar General
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP S/4HANA
+- Workday
+- Snowflake
+- Google Cloud
+
+**Sources:**
+- https://chainstoreage.com/dollar-general-cloud-enables-retail-media-network
+
+## 343. Big Lots
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Oracle PeopleSoft
+- Workday
+
+**Sources:**
+- https://firstup.io/customer-stories/big-lots/
+
+## 344. BJ's Wholesale Club
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Workday
+- AWS
+- Microsoft Azure
+
+**Sources:**
+- https://bjswholesaleclub.wd1.myworkdayjobs.com/
+
+## 345. Ulta Beauty
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Google Cloud Platform
+- Google Kubernetes Engine
+- Google BigQuery
+
+**Sources:**
+- https://cloud.google.com/customers/featured/ultabeauty
+
+## 346. Sally Beauty Holdings
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- IBM Cloud
+- IBM Sterling
+
+**Sources:**
+- https://www.prnewswire.com/news-releases/sally-beauty-holdings-delivers-immersive-beauty-experiences-from-anywhere-with-salesforce-301209163.html
+
+## 347. CarMax
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft Azure
+- Snowflake
+
+**Sources:**
+- https://careers.carmax.com/us/en/c/technology-jobs
+
+## 348. Group 1 Automotive
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- CDK Global DMS
+- Microsoft 365
+
+**Sources:**
+- https://www.group1careers.com/
+
+## 349. Lithia Motors
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft Azure
+- Microsoft 365
+
+**Sources:**
+- https://www.appsruntheworld.com/customers-database/purchases/view/lithia-motors-inc-united-states-selects-salesforce-sales-cloud
+
+## 350. Penske Automotive
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- AWS
+- Microsoft Azure
+- Google Cloud
+- Oracle Fusion HCM
+
+**Sources:**
+- https://penske.jobs/information-technology/
+
+## 351. Sonic Automotive
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- CDK Global DMS
+- Workday
+
+**Sources:**
+- https://www.linkedin.com/in/lisarespress/
+
+## 352. Asbury Automotive Group
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: ✓
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft SharePoint
+- Microsoft OneNote
+
+**Sources:**
+- https://helpjuice.com/case-studies/asbury-automotive-group
+
+## 353. Dick's Sporting Goods
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: ✓
+- **Gong**: ✓
+- **Dropbox**: ✓
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft Azure
+- AWS
+- Workday
+
+**Sources:**
+- https://www.microsoft.com/en/customers/story/1703439817447066120-dicks-sporting-goods-azure-arc-aks-retailers-usa
+
+## 354. Five Below
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Limited information available
+
+**Sources:**
+- https://careers.fivebelow.com/
+
+## 355. Tractor Supply
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft Azure
+- Microsoft Office 365
+- SAP CRM
+
+**Sources:**
+- https://corporate.tractorsupply.com/newsroom/
+
+## 356. Petco Health and Wellness
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- AWS
+- Snowflake
+
+**Sources:**
+- https://careers.petco.com/
+
+## 357. PetSmart
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft Azure
+- SAP S/4HANA
+
+**Sources:**
+- https://blog.barracuda.com/2020/10/06/insights-senior-information-security-architect-petsmart
+
+## 358. Chewy
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: ✓
+- **Confluence**: ✓
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Atlassian Cloud
+- Microsoft Azure
+
+**Sources:**
+- https://stackshare.io/chewy/chewy
+
+## 359. Wayfair
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: ✓
+- **Google Drive**: ✓
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Google Cloud Platform
+- Google Workspace
+
+**Sources:**
+- https://workspace.google.com/customers/wayfair/
+
+## 360. Overstock.com
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- OpenStack
+- AWS
+- Snowflake
+
+**Sources:**
+- https://www.linkedin.com/jobs/view/salesforce-engineer-ii-at-overstock-com-2335116154
+
+## 361. Etsy
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Google Cloud Platform
+- Google Kubernetes Engine
+
+**Sources:**
+- https://cloud.google.com/customers/etsy
+
+## 362. eBay
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Research pending due to rate limits
+
+**Sources:**
+- https://www.ebayinc.com/company/our-company/careers/
+
+## 363. Booking Holdings
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Research pending due to rate limits
+
+**Sources:**
+- https://careers.bookingholdings.com/
+
+## 364. Expedia Group
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Research pending due to rate limits
+
+**Sources:**
+- https://lifeatexpediagroup.com/
+
+## 365. TripAdvisor
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Research pending due to rate limits
+
+**Sources:**
+- https://careers.tripadvisor.com/
+
+## 366. Zillow Group
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Research pending due to rate limits
+
+**Sources:**
+- https://www.zillowgroup.com/careers/
+
+## 367. Redfin
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Research pending due to rate limits
+
+**Sources:**
+- https://www.redfin.com/about/jobs
+
+## 368. Opendoor Technologies
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Research pending due to rate limits
+
+**Sources:**
+- https://www.opendoor.com/careers
+
+## 369. Match Group
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Research pending due to rate limits
+
+**Sources:**
+- https://mtch.com/careers
+
+## 370. IAC
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Research pending due to rate limits
+
+**Sources:**
+- https://www.iac.com/careers
+
+## 371. Yelp
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Research pending due to rate limits
+
+**Sources:**
+- https://www.yelp.careers/us/en
+
+## 372. Twitter
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- AWS
+- Google Cloud
+- Microsoft Azure
+- Oracle Cloud
+- Workday
+
+**Sources:**
+- https://twitter.wd5.myworkdayjobs.com/
+
+## 373. Snap Inc
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: ✓
+- **Confluence**: ✓
+- **Slack**: ✓
+- **Gmail**: ✓
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Google Cloud Platform
+- AWS
+
+**Sources:**
+- https://www.linkedin.com/jobs/view/application-engineer-salesforce-ui-at-snap-inc-4005119605
+
+## 374. Pinterest
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- AWS
+- Google Cloud
+
+**Sources:**
+- https://careers.pinterest.com/careers/details/1480717
+
+## 375. Spotify
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: ✓
+- **Confluence**: ✓
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Google Cloud Platform
+- Kubernetes
+- Backstage
+
+**Sources:**
+- https://engineering.atspotify.com/
+
+## 376. Roku
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- AWS
+
+**Sources:**
+- https://www.roku.com/jobs/position/1678275/salesforce-associate
+
+## 377. Netflix
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: ✓
+- **Confluence**: ✓
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- AWS
+- Kubernetes
+
+**Sources:**
+- https://netflixtechblog.com/
+
+## 378. Paramount Global
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- AWS
+- Workday
+
+**Sources:**
+- https://www.salesforce.com/news/press-releases/2023/04/26/paramount-diversity-reporting-platform/
+
+## 379. Fox Corporation
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- AWS
+- Workday
+
+**Sources:**
+- https://aws.amazon.com/solutions/case-studies/innovators/fox/
+
+## 380. News Corp
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- AWS
+- Microsoft Azure
+- Google Cloud
+
+**Sources:**
+- https://www.b2becosystem.com/blog/cloud-migration-success-news-corp-case-study/
+
+## 381. New York Times
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: ✓
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Google Cloud Platform
+- AWS
+
+**Sources:**
+- https://cloud.google.com/blog/products/data-analytics/how-the-new-york-times-build-an-end-to-end-cloud-data-platform
+
+## 382. Gannett
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft
+- Dayforce
+
+**Sources:**
+- https://www.linkedin.com/jobs/gannett-salesforce-jobs
+
+## 383. McClatchy
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- AI tools
+
+**Sources:**
+- https://mcc.beginyourascent.com/careers/
+
+## 384. Tribune Publishing
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Google Cloud Platform
+- Tableau
+- Snowflake
+
+**Sources:**
+- https://www.builtinchicago.org/company/tribune-publishing
+
+## 385. Warner Bros Discovery
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: ✓
+- **Confluence**: ✓
+- **Slack**: ✓
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: ✓
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- AWS
+- Microsoft Azure
+
+**Sources:**
+- https://aws.amazon.com/solutions/case-studies/warnerbros-discovery-case-study/
+
+## 386. AMC Networks
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Comcast Technology Solutions
+
+**Sources:**
+- https://www.linkedin.com/jobs/amc-networks-jobs
+
+## 387. MGM Resorts International
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: ✓
+- **Slack**: ✓
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Workday
+- VMware
+
+**Sources:**
+- https://www.servicenow.com/customers.html
+
+## 388. Wynn Resorts
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Oracle
+- SQL Server
+
+**Sources:**
+- https://www.linkedin.com/jobs/wynn-resorts-jobs
+
+## 389. Penn National Gaming
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft SQL Server
+- Oracle
+
+**Sources:**
+- https://rocketreach.co/penn-national-gaming-and-hollywood-casinos-technology-stack_b5c62af9f42e0ca0
+
+## 390. Boyd Gaming
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: ✓
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Workday
+- AWS
+- Microsoft Azure
+
+**Sources:**
+- https://boydstyle.boydgaming.com/team-members/boydnow-self-service-portal
+
+## 391. Red Rock Resorts
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Limited information available
+
+**Sources:**
+- https://www.linkedin.com/company/red-rock-resorts-inc
+
+## 392. Churchill Downs
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Adobe Analytics
+- Akamai
+
+**Sources:**
+- https://www.linkedin.com/company/churchill-downs/jobs
+
+## 393. Six Flags Entertainment
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- AWS
+- Microsoft Office 365
+
+**Sources:**
+- https://www.businesswire.com/news/home/20240118343013/en/Six-Flags-Launches-Largest-Digital-Alliance
+
+## 394. Cedar Fair
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: ✓
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft Office 365
+- AWS
+- Azure
+
+**Sources:**
+- https://leadiq.com/c/cedar-fair-entertainment-company/5a1d8aa62400002400648a4c
+
+## 395. SeaWorld Entertainment
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft Office 365
+- Workday
+
+**Sources:**
+- https://careers.seaworldparks.com/
+
+## 396. Dave & Buster's Entertainment
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Workday
+- AWS/Azure/Google Cloud
+
+**Sources:**
+- https://www.prweb.com/releases/2013-sertifi-dreamforce/11-salesforce-esignatures/prweb11336031.htm
+
+## 397. Planet Fitness
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: ✓
+- **Confluence**: ✓
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- AWS
+- Rackspace Cloud
+
+**Sources:**
+- https://medium.com/@salesforce/how-planet-fitness-keeps-customers-and-franchisees-happy-it-s-not-just-the-endorphins-6d73a2af3254
+
+## 398. Life Time Group Holdings
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft technologies
+- Workday
+
+**Sources:**
+- https://www.salesforce.com/video/244163/
+
+## 399. Equinox Holdings
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft Dynamics 365
+
+**Sources:**
+- https://rsmus.com/insights/technology/microsoft/equinox-group-optimizes-tech.html
+
+## 400. Peloton Interactive
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: ✓
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- AWS
+- Google Cloud Platform
+- Azure
+
+**Sources:**
+- https://www.roku.com/jobs/position/1678275/salesforce-associate
+
+## 401. Lululemon Athletica
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- AWS
+- Workday
+
+**Sources:**
+- https://aws.amazon.com/solutions/case-studies/lululemon-athletica/
+

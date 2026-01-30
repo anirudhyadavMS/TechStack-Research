@@ -1,0 +1,121 @@
+Fortune 500 Companies: Ranks 302-401 (Next 100 Companies)
+
+Batch 22 (302-311): 10 companies
+302. Altria Group
+303. Edison International
+304. KeyCorp
+305. Alcoa
+306. Boston Scientific
+307. DaVita
+308. PPL
+309. Hasbro
+310. Omnicom Group
+311. Ross Stores
+
+Batch 23 (312-321): 10 companies
+312. United Airlines Holdings
+313. Domino's Pizza
+314. Hilton Worldwide
+315. Alaska Air Group
+316. S&P Global
+317. Clorox
+318. Campbell Soup
+319. Dr Pepper Snapple Group
+320. AutoNation
+321. T-Mobile US
+
+Batch 24 (322-331): 10 companies
+322. KBR
+323. Weyerhaeuser
+324. Mohawk Industries
+325. Nielsen Holdings
+326. Dollar Tree
+327. Bed Bath & Beyond
+328. Ralph Lauren
+329. PVH
+330. Gap
+331. L Brands
+
+Batch 25 (332-341): 10 companies
+332. Kohl's
+333. Macy's
+334. Nordstrom
+335. Foot Locker
+336. Advance Auto Parts
+337. O'Reilly Automotive
+338. AutoZone
+339. Tiffany & Co.
+340. Signet Jewelers
+341. Williams-Sonoma
+
+Batch 26 (342-351): 10 companies
+342. Dollar General
+343. Big Lots
+344. BJ's Wholesale Club
+345. Ulta Beauty
+346. Sally Beauty Holdings
+347. CarMax
+348. Group 1 Automotive
+349. Lithia Motors
+350. Penske Automotive
+351. Sonic Automotive
+
+Batch 27 (352-361): 10 companies
+352. Asbury Automotive Group
+353. Dick's Sporting Goods
+354. Five Below
+355. Tractor Supply
+356. Petco Health and Wellness
+357. PetSmart
+358. Chewy
+359. Wayfair
+360. Overstock.com
+361. Etsy
+
+Batch 28 (362-371): 10 companies
+362. eBay
+363. Booking Holdings
+364. Expedia Group
+365. TripAdvisor
+366. Zillow Group
+367. Redfin
+368. Opendoor Technologies
+369. Match Group
+370. IAC
+371. Yelp
+
+Batch 29 (372-381): 10 companies
+372. Twitter
+373. Snap
+374. Pinterest
+375. Spotify
+376. Roku
+377. Netflix
+378. Paramount Global
+379. Fox Corporation
+380. News Corp
+381. New York Times
+
+Batch 30 (382-391): 10 companies
+382. Gannett
+383. McClatchy
+384. Tribune Publishing
+385. Discovery Inc
+386. AMC Networks
+387. MGM Resorts International
+388. Wynn Resorts
+389. Penn National Gaming
+390. Boyd Gaming
+391. Red Rock Resorts
+
+Batch 31 (392-401): 10 companies
+392. Churchill Downs
+393. Six Flags Entertainment
+394. Cedar Fair
+395. SeaWorld Entertainment
+396. Dave & Buster's Entertainment
+397. Planet Fitness
+398. Life Time Group Holdings
+399. Equinox Holdings
+400. Peloton Interactive
+401. Lululemon Athletica

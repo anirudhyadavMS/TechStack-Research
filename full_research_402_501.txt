@@ -1,0 +1,2351 @@
+Fortune 500 Companies: Ranks 402-501 - Complete Research Results
+
+================================================================================
+BATCH 32 (402-411): 10 companies
+================================================================================
+
+## 402. Under Armour
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: ✓
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- AWS (Amazon Web Services)
+- SAP S/4HANA, SAP ECC, SAP SCM, SAP MDG, SAP GTS, SAP PO, SAP BI/BOBJ
+- Amazon EC2, DynamoDB, S3, Redshift
+- Apache Kafka
+- BlackLine
+
+**Sources:**
+- https://rainmakercloud.com/blog/2019/08/22/under-armour-salesforce-case-study/
+- https://blogs.servicenow.com/2020/knowledge-2020-week-two.html
+- https://aws.amazon.com/solutions/case-studies/under-armour/
+
+## 403. Hanesbrands
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- DXC UPTime™ Device Management
+- Infosys LEAP with Infosys Topaz AI suite
+- Wipro Intelligence™ WINGS platform
+- Kyriba, Oracle
+
+**Sources:**
+- https://www.salary.com/research/salary/employer/hanesbrands-inc/customer-relationship-crm-supervisor-salesforce-salary
+- https://dxc.com/us/en/newsroom/11212023b
+
+## 404. V.F. Corporation
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Databricks
+- Automation Anywhere
+- SAP ERP
+- Microsoft Intune
+- MuleSoft
+
+**Sources:**
+- https://www.salesforce.com/eu/customer-success-stories/vf/
+- https://www.appsruntheworld.com/customers-database/customers/view/v-f-corporation-united-states
+
+## 405. Tapestry
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Google Cloud Platform (GCP)
+- SAP S/4HANA for Fashion and Vertical Business
+- SAP Ariba
+- SAP SuccessFactors
+- Microsoft Teams
+- Zendesk
+
+**Sources:**
+- https://www.prnewswire.com/news-releases/google-cloud-furthers-digital-transformation-of-tapestrys-three-iconic-brands-301195057.html
+
+## 406. Coach
+
+**Note:** Coach is a brand under Tapestry Inc. (See entry #405)
+
+**Tech Stack:**
+- Same as Tapestry Inc.
+
+## 407. Kate Spade
+
+**Note:** Kate Spade is a brand under Tapestry Inc. (See entry #405)
+
+**Tech Stack:**
+- Same as Tapestry Inc.
+
+## 408. Michael Kors (Capri Holdings)
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: ✓
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP S/4HANA
+- SAP HFM
+- IBM Sterling Order Management
+
+**Sources:**
+- https://www.appsruntheworld.com/customers-database/customers/view/capri-holdings-united-states
+
+## 409. Capri Holdings
+
+**Note:** Capri Holdings is the parent company of Michael Kors, Versace, and Jimmy Choo. (See entry #408)
+
+**Tech Stack:**
+- Same as Michael Kors entry
+
+## 410. Guess
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Oracle JD Edwards (version 9.0)
+- Demandware/Salesforce Commerce Cloud
+- Akamai
+- Mautic
+- ENOVIA
+
+**Sources:**
+- https://enlyft.com/tech/company/guess.com
+
+## 411. Carter's
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft Azure Cloud Services
+- AWS (Amazon Web Services)
+- IBM Sterling Order Management
+- Power BI
+- Snowflake
+
+**Sources:**
+- https://rocketreach.co/carters-technology-stack_b5f6feccf42e8f2c
+
+================================================================================
+BATCH 33 (412-421): 10 companies
+================================================================================
+
+## 412. Skechers
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: ✓
+- **Slack**: ✓
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Oracle Cloud (Fusion Cloud ERP, Risk Management and Compliance)
+- Oracle Applications R12
+- AWS (Amazon Web Services)
+- Google Cloud Platform
+
+**Sources:**
+- https://www.oracle.com/customers/skechers/
+
+## 413. Crocs
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Salesforce Service Cloud
+- Microsoft Azure (Windows 365)
+- Microsoft Teams
+- VMware Horizon
+
+**Sources:**
+- https://www.salesforce.com/blog/crocs-customer-360/
+
+## 414. Deckers Outdoor
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Oracle E-Business Suite
+- Oracle Applications R12
+- Oracle Retail Enterprise Suite
+- Google Cloud (Cloud Run, DataFlow, App Engine, BigQuery)
+- PTC FlexPLM
+
+**Sources:**
+- https://enlyft.com/tech/company/deckers.com
+
+## 415. Wolverine World Wide
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: ✓
+- **Confluence**: ✓
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP ERP (migrating to RISE with SAP on Azure)
+- SAP Fashion Management
+- SAP Ariba
+- Microsoft Azure
+
+**Sources:**
+- https://www.microsoft.com/en/customers/story/1508542110424786698-wolverine-worldwide-consumer-goods-sap-on-azure
+
+## 416. Caleres
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP ERP (Cloud-based version implemented in 2024)
+- Inventory management systems
+
+**Sources:**
+- https://sgbonline.com/exec-caleres-sees-tough-q2-for-brand-portfolio-on-sap-update-while-famous-fw-improving/
+
+## 417. Steven Madden
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Infor M3 ERP
+- Rackspace Cloud
+- WFX PLM
+- Connectplaza IPaaS
+- Shopify
+
+**Sources:**
+- https://www.appsruntheworld.com/customers-database/customers/view/steve-madden-usa
+
+## 418. G-III Apparel Group
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Oracle JD Edwards Enterprise
+- IBM AS/400
+- IBM Cognos
+
+**Sources:**
+- https://rocketreach.co/g-iii-apparel-group-technology-stack_b5c712daf42e0d29
+
+## 419. Oxford Industries
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP ERP Financials
+- Workday
+- Exotec Skypod
+
+**Sources:**
+- https://risnews.com/oxford-industries-selects-sap-streamline-global-financial-reporting
+
+## 420. Movado Group
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP ERP (20+ years customer, SAP EWM)
+- Customer Data Platform
+- Google Analytics 360
+- AWS
+
+**Sources:**
+- https://www.salesforce.com/news/press-releases/2021/06/02/movado-group-drives-global-shopping-experiences-with-salesforce/
+
+## 421. Fossil Group
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: ✓
+- **Confluence**: ✓
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- NewStore Omnichannel Platform
+- Bitbucket
+
+**Sources:**
+- https://builtin.com/job/salesforce-commerce-cloud-engineer-ii/2149621
+
+================================================================================
+BATCH 34 (422-431): 10 companies
+================================================================================
+
+## 422. Build-A-Bear Workshop
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Salesforce Commerce Cloud
+- Salesforce Service Cloud
+- Salesforce Marketing Cloud
+- Salesforce Loyalty Cloud
+- Microsoft Azure Cloud Services
+- Adobe Analytics
+
+**Sources:**
+- https://www.salesforce.com/news/press-releases/2020/03/11/build-a-bear-plans-to-accelerate-its-digital-transformation-with-salesforce/
+
+## 423. Children's Place
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Salesforce Commerce Cloud
+- Microsoft Azure Cloud Services
+- AWS
+- TransUnion TruValidate
+- iCIMS Recruit
+
+**Sources:**
+- https://www.prnewswire.com/news-releases/the-childrens-place-launches-new-tween-brand-sugar--jade-301419840.html
+
+## 424. Chico's FAS
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Salesforce CRM
+- Salesforce Marketing Cloud
+- Salesforce Interaction Studio
+- Contentstack
+- Afterpay
+
+**Sources:**
+- https://www.prnewswire.com/news-releases/chicos-fas-accelerates-its-digital-transformation-301162019.html
+
+## 425. J. Jill
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft Windows PowerShell
+- Microsoft Active Directory
+- Oracle Enterprise Manager
+- SAP SQL Script
+- IBM WebSphere
+
+**Sources:**
+- https://www.datanyze.com/companies/j-jill/63327541
+
+## 426. Ascena Retail Group
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Oracle E-Business Suite Financials
+- Oracle Hyperion Planning and Budgeting
+- Oracle GRC
+- Oracle EPM Cloud
+- Oracle Marketing Cloud (Responsys)
+- IBM WebSphere Application Server
+
+**Sources:**
+- https://www.chainstoreage.com/news/ascena-retail-group-roll-out-oracle-e-business-solution
+
+## 427. Lands' End
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft Azure Cloud Services
+- Data Axle
+- Dynatrace APM
+- ERP system
+- Order Management System (OMS)
+
+**Sources:**
+- https://www.appsruntheworld.com/customers-database/customers/view/lands-end-united-states
+
+## 428. Talbots
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Salesforce Commerce Cloud
+- PayPal Marketing Solutions
+- Google Analytics
+- SAP
+- Oracle Customer Engagement CRM
+- Manhattan Associates (WMS)
+
+**Sources:**
+- https://www.slintel.com/company/5c3b0663d55ae49f1b7f1854/talbots
+
+## 429. Express
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- MicroStrategy (Analytics)
+- Cloudflare
+- Klarna Checkout
+
+**Sources:**
+- https://leadiq.com/c/express/5a1d8aa024000024006476b6
+
+## 430. New York & Company
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Metrical AI
+- ATG eCommerce (Oracle)
+- Snowplow
+- jQuery CDN
+- Cloudflare
+
+**Sources:**
+- https://www.prweb.com/releases/new-york--company-partners-with-metrical-to-elevate-online-shopping-experience-through-ai-powered-personalization-302603653.html
+
+## 431. Destination XL Group
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Oracle Commerce (migrated to AWS in 2017)
+- AWS (Amazon Web Services)
+- Infor CloudSuite CRM
+- Infor Marketing Resource Management (MRM)
+- Infor Loyalty
+
+**Sources:**
+- https://www.prweb.com/releases/tenzing_migrates_dxl_s_oracle_commerce_to_amazon_web_services_on_tight_holiday_timeline/prweb15156519.htm
+
+================================================================================
+BATCH 35 (432-441): 10 companies
+================================================================================
+
+## 432. American Eagle Outfitters
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Google Cloud Platform (BigQuery, Cloud SQL, Dataplex, GKE)
+- Oracle Retail Allocation
+- MicroStrategy ONE Analytics
+- Amazon EC2
+- Oracle CrowdTwist Loyalty
+- SAP Business Network & SAP Ariba
+
+**Sources:**
+- https://cloud.google.com/customers/american-eagle-outfitters
+
+## 433. Abercrombie & Fitch
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft Azure
+- Azure Kubernetes Service (AKS)
+- Microsoft Power BI
+- Snowflake
+- Databricks
+- Oracle Cloud
+- Tableau
+
+**Sources:**
+- https://www.microsoft.com/en/customers/story/19759-abercrombie-azure
+
+## 434. Urban Outfitters
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Island Pacific ERP
+- MicroStrategy
+- Oracle
+- Informatica
+- Manhattan Active Warehouse Management
+- Eyvo eBuyerAssist
+
+**Sources:**
+- https://www.appsruntheworld.com/customers-database/customers/view/urban-outfitters-inc-united-states
+
+## 435. Anthropologie
+
+**Note:** Anthropologie is a brand owned by URBN (Urban Outfitters Inc.)
+
+**Tech Stack:**
+- Same technology infrastructure as Urban Outfitters
+
+## 436. Free People
+
+**Note:** Free People is a brand owned by URBN (Urban Outfitters Inc.)
+
+**Tech Stack:**
+- Same technology infrastructure as Urban Outfitters
+
+## 437. Aerie
+
+**Note:** Aerie is a brand owned by American Eagle Outfitters
+
+**Tech Stack:**
+- Same technology infrastructure as American Eagle Outfitters
+
+## 438. Buckle
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Q4
+- Facebook Web Custom Audiences
+- Afterpay
+- Bar-coding system
+
+**Sources:**
+- https://www.globaldata.com/company-profile/the-buckle-inc/
+
+## 439. Zumiez
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Workday Financial Management
+- Workday Adaptive Planning
+- Workday Prism Analytics
+- Talkdesk Enterprise Contact Center
+- New Relic APM
+
+**Sources:**
+- https://newsroom.workday.com/2021-02-25-Zumiez-Selects-Workday-to-Help-Transform-Finance
+
+## 440. Tillys
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Aptos Singular Commerce
+- Nedap iD Cloud
+- MicroStrategy Alert
+- Oracle Cloud HCM
+- Oracle Taleo Cloud Service
+
+**Sources:**
+- https://www.appsruntheworld.com/customers-database/customers/view/tillys-inc-usa
+
+## 441. Hot Topic
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Manhattan Active Warehouse Management
+- Ability Commerce
+- Amplience
+- Blue Yonder
+- Cloudflare
+- Signifyd
+
+**Sources:**
+- https://www.manh.com/our-insights/resources/case-study/hot-topic-meets-modern-customer-needs-with-manhattan
+
+================================================================================
+BATCH 36 (442-451): 10 companies
+================================================================================
+
+## 442. Hibbett Sports
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Workday (Full platform implementation)
+- Oracle Retail Cloud Platform
+- Narvar
+- Rallyware
+- iCIMS
+
+**Sources:**
+- https://www.oracle.com/news/announcement/hibbett-drafts-oracle-cloud-to-improve-in-store-shopping-experiences-2023-03-14/
+
+## 443. Academy Sports + Outdoors
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Rackspace Cloud
+- Microsoft Azure
+- Enterprise Data Platform
+
+**Sources:**
+- https://www.appsruntheworld.com/customers-database/purchases/view/academy-sports-outdoors-united-states-selects-salesforce-sales-cloud-for-sales-automation-crm-sales-engagement
+
+## 444. Big 5 Sporting Goods
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: ✓
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Oracle (Endeca for Analytics and BI, Oracle Commerce, Oracle Database)
+- Rackspace Cloud
+- Adobe Analytics
+- Sailthru
+- Optimizely Intelligence Cloud
+
+**Sources:**
+- https://rocketreach.co/big-5-sporting-goods-technology-stack_b5c64fdbf42e0cbb
+
+## 445. Modell's Sporting Goods
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- IBM Cloud Infrastructure
+- MarketLive
+- Zendesk
+- Google Analytics
+
+**Sources:**
+- https://enlyft.com/tech/company/modells.com
+
+## 446. REI
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Tableau
+- Everbridge
+- Apache Solr
+- Kronos
+- Blue Yonder
+- Hadoop
+
+**Sources:**
+- https://www.computerworld.com/article/1637855/adventuring-into-the-unknown-with-rei-and-crm.html
+
+## 447. Bass Pro Shops
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft Azure Cloud Services
+- Domo
+- Coupa Invoice
+- IBM Store Integration Framework
+- PCMS BeanStore
+- IBM WebSphere
+
+**Sources:**
+- https://www.appsruntheworld.com/customers-database/customers/view/bass-pro-shops-united-states
+
+## 448. Cabela's
+
+**Note:** Cabela's was acquired by Bass Pro Shops in 2017
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft Azure
+- SAP Cloud Platform
+- Google App Engine
+- Oracle WebLogic Suite
+- Oracle PeopleSoft
+- Tableau Software
+
+**Sources:**
+- https://www.slintel.com/company/cabelas/5c3b023ed55ae49f1b7910cd
+
+## 449. Sportsman's Warehouse
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft Azure Cloud Services
+- Lumen Cloud
+- Blue Yonder
+- Cisco Webex Meetings
+- LiveIntent
+
+**Sources:**
+- https://www.appsruntheworld.com/customers-database/customers/view/sportsmans-warehouse-inc-usa
+
+## 450. Camping World Holdings
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- IBM watsonx Assistant
+- LivePerson
+- Microsoft Power BI
+- Oracle e-Business Suite Accounts Payable
+- SolarWinds Pingdom RUM
+
+**Sources:**
+- https://www.ibm.com/case-studies/camping-world
+
+## 451. Gander Outdoors
+
+**Note:** Gander Outdoors is owned by Camping World Holdings
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft Azure Cloud Services
+- Office 365
+- ADP
+- Impact Radius
+
+**Sources:**
+- https://www.appsruntheworld.com/customers-database/customers/view/gander-outdoors-united-states
+
+================================================================================
+BATCH 37 (452-461): 10 companies
+================================================================================
+
+## 452. Party City Holdco
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Failed to invest in technology infrastructure (cited as major factor in bankruptcy)
+
+**Note:** Company filed for bankruptcy January 2023, emerged October 2023, filed again December 2024 and closed all stores
+
+**Sources:**
+- https://fortune.com/2025/01/15/party-city-closing-bankruptcy-debt-private-equity/
+
+## 453. Spencer's
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Databricks
+- IBM
+- MuleSoft Anypoint Platform
+- Bing Ads
+- Adobe Tag Manager
+
+**Sources:**
+- https://leadiq.com/c/spencers/5a1d88882400002400623413
+
+## 454. Spirit Halloween
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP Commerce Cloud (formerly SAP Hybris)
+- Microsoft Azure
+- Power BI
+- Microsoft Team Foundation Server
+- Hadoop
+
+**Sources:**
+- https://www.slintel.com/company/spirit-halloween/5c3b0632d55ae49f1b7ecfa8
+
+## 455. Michaels Companies
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- MuleSoft Anypoint Platform
+- Heroku
+- Salesforce Commerce Cloud
+- Salesforce Service Cloud
+- Salesforce Marketing Cloud
+- AgilOne
+
+**Sources:**
+- https://www.retaildive.com/news/michaels-deploys-personalized-shopping-tech/543621/
+
+## 456. Jo-Ann Stores
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP ERP (SAP ECC, SAP NetWeaver PI, SAP Logistics Execution)
+- Workday Strategic Sourcing
+- Oracle Retail Xstore Point-of-Service
+- Oracle Marketing Cloud
+- IBM Sterling Order Management
+- Demandware/Salesforce Commerce Cloud
+
+**Sources:**
+- https://www.retaildive.com/spons/how-jo-ann-stores-uses-modern-solutions-to-make-sourcing-truly-strategic/601468/
+
+## 457. Hobby Lobby
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP ERP (replaced JD Edwards)
+- SAP Commerce Cloud
+- SAP Emarsys
+- Amazon EC2
+- Microsoft Azure Cloud Services
+
+**Sources:**
+- http://dssresources.com/news/2420.php
+
+## 458. AC Moore
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Facebook Pixel
+- Microsoft Outlook
+- BFC Software Dakota
+- New Relic
+- Magento
+
+**Note:** Company closed all 145 stores in November 2019
+
+**Sources:**
+- https://www.crunchbase.com/organization/ac-moore-craft-store/technology
+
+## 459. Joann Fabrics
+
+**Note:** Same company as Jo-Ann Stores (entry #456)
+
+**Tech Stack:**
+- See Jo-Ann Stores entry
+
+## 460. Hancock Fabrics
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Point-of-Sale (POS) system
+- MPLS network
+
+**Note:** Company closed all stores on July 27, 2016 after bankruptcy
+
+**Sources:**
+- https://en.wikipedia.org/wiki/Hancock_Fabrics
+
+## 461. Pier 1 Imports
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: ✓
+- **Confluence**: ✓
+- **Gmail**: ✓
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Atlassian Bitbucket
+- Microsoft Office 365
+- Ceridian/Dayforce
+- Citrix Virtual Apps
+- Genesys
+- Apache Maven
+
+**Note:** Company filed for bankruptcy in 2020
+
+**Sources:**
+- https://rocketreach.co/pier-1-technology-stack_b5c60efaf42e0c50
+
+================================================================================
+BATCH 38 (462-471): 10 companies
+================================================================================
+
+## 462. HomeGoods (TJX Companies)
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Oracle NetSuite ERP
+- UKG Workforce Central Absence Manager
+- Oracle Retail Allocation
+- Microsoft BI
+- Microsoft Office 365
+- Microsoft Azure
+
+**Sources:**
+- https://www.appsruntheworld.com/customers-database/customers/view/the-tjx-companies-inc-united-states
+
+## 463. HomeSense (TJX Companies)
+
+**Note:** HomeSense is owned by TJX Companies (same parent as HomeGoods)
+
+**Tech Stack:**
+- Same technology infrastructure as HomeGoods
+
+## 464. At Home Group
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- The Trade Desk
+- Tableau
+- Power BI
+- Bluecore
+
+**Note:** Filed for bankruptcy in June 2025 and emerged in October 2025
+
+**Sources:**
+- https://leadiq.com/c/at-home-group-inc/5a1d970e2300005a0085ae1e
+
+## 465. Tuesday Morning
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Rackspace Cloud
+- MicroStrategy ONE Analytics
+- New Relic APM
+
+**Note:** Filed for bankruptcy for the second time in February 2023
+
+**Sources:**
+- https://www.appsruntheworld.com/customers-database/customers/view/tuesday-morning-inc-usa
+
+## 466. Christmas Tree Shops
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- UKG iSeries Central Suite (formerly Kronos iSeries Central Suite)
+- Rackspace Cloud
+- Akamai CDN
+
+**Sources:**
+- https://enlyft.com/tech/company/christmastreeshops.com
+
+## 467. Garden Ridge
+
+**Note:** Garden Ridge was rebranded to At Home in 2014 (See entry #464)
+
+**Tech Stack:**
+- See At Home Group
+
+## 468. Linens 'n Things
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Cloudflare CDN
+- Adobe
+- ADP
+- Amazon S3
+
+**Note:** Filed for bankruptcy in 2008 and closed all stores
+
+**Sources:**
+- https://rocketreach.co/linens-n-things-technology-stack_b5c6389ff42e0c5a
+
+## 469. Bed Bath & Beyond
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Oracle Cloud ERP
+- Oracle Retail Merchandising Cloud Service
+- Relex Solutions
+- Google (demand planning and forecasting partnership)
+- Adobe Creative Cloud
+
+**Note:** Filed for bankruptcy in April 2023 and closed all stores
+
+**Sources:**
+- https://www.prnewswire.com/news-releases/bed-bath--beyond-selects-oracle-to-modernize-enterprise-resource-planning-and-accelerate-technology-transformation-301226757.html
+
+## 470. Container Store
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- John Galt Solutions Atlas Planning Platform
+- BrightEdge
+- Bing Ads
+- Grafana
+
+**Note:** Emerged from Chapter 11 bankruptcy in January 2025
+
+**Sources:**
+- https://www.salesforce.com/products/service-cloud/resources/the-container-store/
+
+## 471. The Organizer (Organize.com)
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Shopify
+- Klaviyo
+- Google Analytics
+- Gorgias
+- Hotjar
+
+**Sources:**
+- https://www.aftership.com/brands/organize.com
+
+================================================================================
+BATCH 39 (472-481): 10 companies
+================================================================================
+
+## 472. Office Depot
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: ✓
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: ✓
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Oracle ERP Cloud
+- Oracle Cloud Infrastructure (OCI)
+- Snowflake
+- Microsoft SQL Server Analysis Services (SSAS)
+- Generative AI assistant (ODP Personal Assistant)
+
+**Sources:**
+- https://www.techtarget.com/searcherp/news/252434311/Office-Depot-says-no-to-Oracle-ERP-Cloud-customizations
+
+## 473. OfficeMax
+
+**Note:** OfficeMax merged with Office Depot in 2013
+
+**Tech Stack:**
+- Same as Office Depot
+
+## 474. Staples
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Couchbase
+- Amazon Web Services (AWS)
+- VMware vSphere and vCenter
+- React, Next.js, Tailwind CSS
+- BloomReach
+- Marketo
+- Adobe Marketing Cloud
+
+**Sources:**
+- https://acsgbl.com/customer-success-staples/
+
+## 475. Quill
+
+**Note:** Quill is a wholly owned subsidiary of Staples
+
+**Tech Stack:**
+- Same as Staples
+
+## 476. Viking Office Products
+
+**Note:** Viking merged with Office Depot in 1998
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP Commerce Cloud (formerly SAP Hybris) - European operations
+
+**Sources:**
+- https://www.digitalcommerce360.com/2017/10/18/office-depot-europe-grows-b2b-web-sales-new-technology/
+
+## 477. Grand & Toy
+
+**Note:** Grand & Toy is a wholly owned subsidiary of The ODP Corporation
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft Dynamics 365 Sales
+- Microsoft Dynamics 365 Customer Service
+- G Suite (Google Workspace)
+- Microsoft Office 365
+
+**Sources:**
+- https://www.microsoft.com/en/customers/story/21723-grand-and-toy-dynamics-365-sales
+
+## 478. Corporate Express
+
+**Note:** Corporate Express was acquired by Staples in 2008
+
+**Tech Stack:**
+- Same as Staples
+
+## 479. United Stationers
+
+**Note:** United Stationers rebranded to Essendant in 2015, then acquired by Staples in 2019
+
+**Tech Stack:**
+- See Essendant entry
+
+## 480. Essendant
+
+**Note:** Essendant was acquired by Staples in January 2019
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Stibo Systems Product Experience Data Cloud
+- Salesforce Commerce Cloud
+- Enterworks
+- Microsoft Power BI
+
+**Sources:**
+- https://www.stibosystems.com/company/our-customers/essendant-success-story
+
+## 481. SP Richards
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Paycom
+- Microsoft Excel
+
+**Sources:**
+- https://www.zoominfo.com/c/sp-richards-co/111886757
+
+================================================================================
+BATCH 40 (482-491): 10 companies
+================================================================================
+
+## 482. W.W. Grainger
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: ✓
+- **Jira**: ✓
+- **Confluence**: ✓
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- AWS
+- Databricks
+
+**Sources:**
+- https://builtin.com/job/servicenow-engineer/3271866
+
+## 483. Fastenal
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft Dynamics 365
+- Microsoft Power BI
+- Microsoft Azure Cloud Services
+- SharePoint
+
+**Sources:**
+- https://www.rbaconsulting.com/project/fastenal-case-study/
+
+## 484. MSC Industrial Direct
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP S/4HANA (Private cloud on Google Cloud Platform)
+- Google Cloud Platform
+- SAP Analytics Cloud
+- SAP Ariba
+- IBM Cognos Analytics
+
+**Sources:**
+- https://www.techtarget.com/searchsap/feature/MSC-Industrial-Supply-transforms-to-SAP-S-4HANA-private-cloud
+
+## 485. Wesco International
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Teradata Data Warehouse
+- Oracle OBIEE
+- Genpact Cora APFlow
+- Rackspace Cloud
+- HighRadius
+
+**Sources:**
+- https://www.baselinemag.com/business-intelligence/Why-Wesco-Doesnt-Use-ERP/
+
+## 486. HD Supply
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Oracle EBS (E-Business Suite)
+- SAP NetWeaver
+- SAP HANA
+- Microsoft Dynamics 365 for Finance and Operations
+- MicroStrategy ONE Analytics
+- Snowflake
+
+**Sources:**
+- https://www.servicenow.com/customers/hd-supply.html
+
+## 487. Hughes Supply
+
+**Note:** Hughes Supply was acquired by HD Supply in 2006
+
+**Tech Stack:**
+- See HD Supply
+
+## 488. WESCO Distribution
+
+**Note:** Same entity as Wesco International (entry #485)
+
+**Tech Stack:**
+- See Wesco International
+
+## 489. Anixter International
+
+**Note:** Anixter International was acquired by WESCO International in 2020
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Crazy Egg
+- Postman
+- Selenium
+- jQuery UI
+
+**Sources:**
+- https://leadiq.com/c/anixter/5a1d8a9c2400002400646add
+
+## 490. Graybar Electric
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP S/4HANA
+- SAP User Experience Management (SAP UEM by Knoa)
+- Microsoft Office 365
+- Microsoft Azure
+
+**Sources:**
+- https://sapinsider.org/graybar-benefits-from-sap-uem-by-knoa-during-its-sap-s-4hana-migration/
+
+## 491. Rexel
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: ✓
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft Dynamics 365
+- SAP SuccessFactors
+- Microsoft Office 365
+- Azure Active Directory
+- QAD (Cloud ERP)
+
+**Sources:**
+- https://www.microsoft.com/en/customers/story/22950-rexel-dynamics-365-finance
+
+================================================================================
+BATCH 41 (492-501): 10 companies
+================================================================================
+
+## 492. Applied Industrial Technologies
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP ERP
+- SAP SuccessFactors Recruiting
+- SAP SuccessFactors Learning
+- SAP SuccessFactors Employee Central
+- Adobe Connect
+- Epicor ERP
+
+**Sources:**
+- https://rocketreach.co/applied-industrial-technologies-technology-stack_b5c6242ef42e0ca9
+
+## 493. DXP Enterprises
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP Ariba
+- SAP ERP
+- Microsoft Power Apps
+- Zoho
+
+**Sources:**
+- https://leadiq.com/c/dxp-enterprises-inc/5a1d8a9c2400002400646a48
+
+## 494. MRC Global
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Oracle Cloud-based ERP (implementation expected by mid-2025)
+- Oracle E-Business Suite
+- Digital Service Platform
+- MRCGO™ e-commerce platform
+
+**Sources:**
+- https://valve-world.net/mrc-globals-digital-e-commerce-transformation/
+
+## 495. NOW Inc. (DNOW)
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP (single instance for global operations)
+- Microsoft Office 365
+- DigitalNOW® platform
+
+**Sources:**
+- https://www.dnow.com/digital-solutions
+
+## 496. Kaman Corporation
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft Azure Cloud Services
+- New Relic APM
+- Adobe Connect
+- Fastly
+- Adobe ColdFusion
+
+**Sources:**
+- https://www.appsruntheworld.com/customers-database/customers/view/kaman-corporation-united-states
+
+## 497. Air & Water Technologies
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Amazon Web Services (AWS)
+- Amazon S3
+- Amazon Payments
+- Cloudflare CDN
+- ASP.NET
+
+**Sources:**
+- https://rocketreach.co/air-water-inc-technology-stack_b5c27d9af42e0eed
+
+## 498. DNOW
+
+**Note:** Same company as NOW Inc. (entry #495)
+
+**Tech Stack:**
+- See NOW Inc. entry
+
+## 499. Titan Machinery
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- iCIMS Recruit
+- Microsoft Azure Cloud Services
+- Microsoft technologies
+- Lumen Technologies
+
+**Sources:**
+- https://www.appsruntheworld.com/customers-database/customers/view/titan-machinery-usa
+
+## 500. Rush Enterprises
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft Dynamics 365 CRM
+- SAP ERP (TITAN AutoRetail Enterprise Solution)
+- Lumen Cloud
+- New Relic APM
+- Adobe Connect
+
+**Sources:**
+- https://investor.rushenterprises.com/news-releases/news-release-details/rush-enterprises-inc-selects-titan-technology-partners
+
+## 501. Penske Truck Leasing
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Oracle EBS (E-Business Suite)
+- Oracle Hyperion Enterprise
+- Oracle Hyperion Financial Management
+- SAP
+- JDA
+- Taleo
+- Paradox.ai
+
+**Sources:**
+- https://www.salesforce.com/customer-success-stories/penske-logistics/
+
+================================================================================
+END OF RESEARCH
+================================================================================
+
+Summary Statistics for Companies 402-501:
+
+**Salesforce**: 33 companies confirmed
+**ServiceNow**: 8 companies confirmed
+**Jira**: 11 companies confirmed
+**Confluence**: 5 companies confirmed
+**Slack**: 2 companies confirmed
+**Gmail**: 1 company confirmed
+**Google Drive**: 1 company confirmed
+**Gong**: 0 companies confirmed
+**Dropbox**: 1 company confirmed
+**Box**: 0 companies confirmed

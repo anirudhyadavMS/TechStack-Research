@@ -1,0 +1,256 @@
+## 302. Altria Group
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Oracle
+- SAP
+- Microsoft Office
+- Workday
+
+**Sources:**
+- https://www.appsruntheworld.com/customers-database/customers/view/alcoa-corporation-united-states
+- https://6sense.com/company/alcoa-inc/5b8915737c866675e50fde78
+
+## 303. Edison International
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Palantir Foundry
+- MicroStrategy
+- Rackspace Cloud
+- Imperva CDN
+
+**Sources:**
+- https://www.cloudcreations.com/ongoing-salesforce-solutions-cal-edison/
+- https://www.appsruntheworld.com/customers-database/customers/view/southern-california-edison-usa
+
+## 304. KeyCorp
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Google Cloud Platform
+- Kubernetes
+- Oracle
+- Workday
+- Tableau
+
+**Sources:**
+- https://www.americanbanker.com/news/keybank-moves-more-applications-to-google-cloud
+- https://www.pwc.com/us/en/library/case-studies/keybank.html
+
+## 305. Alcoa
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Oracle
+- SAP
+- Microsoft Power BI
+- Workday
+
+**Sources:**
+- https://www.salary.com/research/salary/employer/alcoa-corp/salesforce-crm-senior-administrator-salary
+- https://alcoa.wd5.myworkdayjobs.com/Careers
+
+## 306. Boston Scientific
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- SAP S/4 HANA
+- Workday
+- Microsoft Dynamics 365
+- Oracle
+
+**Sources:**
+- https://www.salesforce.com/plus/experience/world_tour/series/best_of_world_tour_boston_2024/episode/episode-s1e8
+- https://www.workday.com/en-us/customer-stories/a-h/boston-scientific-planning-collaboration-budgeting-processes.html
+
+## 307. DaVita
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: ✓
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- VMware Cloud
+- AWS
+- Azure
+
+**Sources:**
+- https://enlyft.com/tech/company/davita.com
+- https://www.linkedin.com/in/sandeep-rao-04aa8a168/
+
+## 308. PPL Corporation
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft Azure
+- Microsoft 365
+- MicroStrategy
+
+**Sources:**
+- https://www.appsruntheworld.com/customers-database/customers/view/ppl-electric-utilities-usa
+- https://www.zoominfo.com/p/Arun-Nepalli/9955475468
+
+## 309. Hasbro
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Microsoft Azure
+- Azure DevOps
+- GitHub
+- SAP PLM
+
+**Sources:**
+- https://jobs.hasbro.com/job/Renton-Assoc-Systems-Engineer-Wash/1340758300/
+
+## 310. Omnicom Group
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: ✓
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- AWS
+- Microsoft Azure
+- Google Cloud Platform
+- Microsoft 365
+
+**Sources:**
+- https://aws.amazon.com/solutions/case-studies/omnicom-case-study/
+- https://investor.omnicomgroup.com/news/news-details/2014/Salesforce.com-and-Omnicom-Announce-First-Ever-CRM-Alliance
+
+## 311. Ross Stores
+
+**Tech Stack:**
+
+Target Apps:
+- **Salesforce**: NOT CONFIRMED
+- **ServiceNow**: NOT CONFIRMED
+- **Jira**: NOT CONFIRMED
+- **Confluence**: NOT CONFIRMED
+- **Slack**: NOT CONFIRMED
+- **Gmail**: NOT CONFIRMED
+- **Google Drive**: NOT CONFIRMED
+- **Gong**: NOT CONFIRMED
+- **Dropbox**: NOT CONFIRMED
+- **Box**: NOT CONFIRMED
+
+Other Technologies:
+- Oracle
+- VMware
+- MicroStrategy
+
+**Sources:**
+- https://enlyft.com/tech/company/rossstores.com
+- https://www.appsruntheworld.com/customers-database/customers/view/ross-stores-inc-united-states

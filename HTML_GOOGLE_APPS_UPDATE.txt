@@ -1,0 +1,110 @@
+================================================================================
+HTML GOOGLE APPS UPDATE - January 28, 2026
+================================================================================
+
+TASK: Update HTML dashboard to replace Gmail/Google Drive with Google Cloud,
+with special handling for Citigroup, Abbvie, and Exxon Mobil
+
+================================================================================
+CHANGES EXECUTED
+================================================================================
+
+SPECIAL CASES:
+--------------
+1. CITIGROUP
+   - KEPT: Gmail as target app
+   - REMOVED: Google Drive from other_apps
+   - REMOVED: Gmail from other_apps (avoid duplicate with target)
+   - ADDED: Google Cloud to other_apps
+
+2. ABBVIE
+   - KEPT: Google Drive as target app
+   - REMOVED: Gmail from other_apps
+   - REMOVED: Google Drive from other_apps (avoid duplicate with target)
+   - ADDED: Google Cloud to other_apps
+
+3. EXXON MOBIL
+   - KEPT: Google Drive as target app
+   - REMOVED: Gmail from other_apps
+   - REMOVED: Google Drive from other_apps (avoid duplicate with target)
+   - ADDED: Google Cloud to other_apps
+
+STANDARD UPDATES (32 companies):
+---------------------------------
+Replaced Gmail/Google Drive with Google Cloud in other_apps for:
+- LLOYDS BANKING GROUP
+- VODAFONE GROUP
+- DANONE
+- GENERAL MOTORS
+- AT&T
+- APPLE
+- BANK OF AMERICA
+- BOEING
+- CVS HEALTH
+- CARDINAL HEALTH
+- CENTENE
+- CHEVRON
+- CIGNA GROUP
+- COMCAST
+- DELL
+- FEDEX
+- HP INC
+- IBM
+- LOCKHEED MARTIN
+- LOWE'S
+- MCKESSON
+- MERCK
+- META PLATFORMS
+- NVIDIA
+- PEPSICO
+- RTX CORPORATION
+- UPS
+- WALT DISNEY
+- WELLS FARGO
+- ORACLE
+- CATERPILLAR
+- INTEL
+
+================================================================================
+TECHNICAL IMPLEMENTATION
+================================================================================
+
+Script: update_html_google_apps.py
+- Parsed JavaScript companies array from HTML
+- Updated apps, other_apps, and tech_stack arrays for each company
+- Maintained is_target flags correctly
+- Preserved all other company data
+- Regenerated HTML with updated data
+
+Changes to data structure:
+- apps array: Target applications (Citigroup keeps Gmail, Abbvie/Exxon keep Google Drive)
+- other_apps array: Supporting technologies (Google Cloud added, Gmail/Drive removed)
+- tech_stack array: Combined view with is_target flags
+
+================================================================================
+RESULTS
+================================================================================
+
+Total companies updated: 35
+Total companies in HTML: 65
+
+Google Cloud is now properly tracked as infrastructure/platform technology
+Gmail remains as target app only for Citigroup
+Google Drive remains as target app for Abbvie and Exxon Mobil
+
+================================================================================
+FILES MODIFIED
+================================================================================
+
+1. company_technology_stack_analysis.html
+   - Updated companies JavaScript array with new data
+
+2. New scripts created:
+   - update_html_google_apps.py
+
+3. Documentation:
+   - HTML_GOOGLE_APPS_UPDATE.txt (this file)
+
+================================================================================
+END OF UPDATE SUMMARY
+================================================================================

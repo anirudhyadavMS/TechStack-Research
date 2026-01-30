@@ -1,0 +1,313 @@
+================================================================================
+TECH STACK CONSOLIDATION UPDATE - January 28, 2026
+================================================================================
+
+SUMMARY:
+Combined "Target Applications" and "Other Notable Apps" sections into a single
+unified "Tech Stack" section for clearer, more streamlined company profiles.
+
+================================================================================
+CHANGES OVERVIEW
+================================================================================
+
+BEFORE:
+-------
+**Target Apps Found:**
+- **Salesforce** ✓
+- **ServiceNow** ✓
+
+**Other Notable Apps:**
+- Microsoft 365/Azure
+- AWS
+- SAP
+
+AFTER:
+------
+**Tech Stack:**
+- **Salesforce** ✓
+- **ServiceNow** ✓
+- Microsoft 365/Azure
+- AWS
+- SAP
+
+================================================================================
+STATISTICS
+================================================================================
+
+Total Companies in Dataset: 201
+Companies Updated: 34 (17%)
+  - These had the simple "Target Apps / Other Apps" format
+
+Companies with Detailed Format: Unchanged
+  - Companies like Wells Fargo with extensive subsections kept their format
+  - These have detailed breakdowns by technology (e.g., "### **Salesforce**")
+
+Sections Removed:
+  - "**Target Apps Found:**" - 34 instances removed
+  - "**Other Notable Apps:**" - 34 instances removed
+
+Sections Added:
+  - "**Tech Stack:**" - 34 instances added
+
+================================================================================
+BENEFITS OF CONSOLIDATION
+================================================================================
+
+1. SIMPLIFIED STRUCTURE
+   - One clear section instead of two
+   - Easier to scan and understand
+   - Less cognitive load for readers
+
+2. UNIFIED VIEW
+   - All technologies in one place
+   - No artificial separation between "target" and "other"
+   - Target apps still distinguished by checkmark (✓)
+
+3. BETTER VISUAL HIERARCHY
+   - Single "Tech Stack" header
+   - Target apps visually distinguished (blue tags)
+   - Other technologies in gray tags
+
+4. CONSISTENCY
+   - Matches standard tech stack documentation
+   - Aligns with industry conventions
+   - More professional presentation
+
+================================================================================
+MARKDOWN CHANGES
+================================================================================
+
+Script Used: combine_tech_sections_v2.py
+
+Process:
+1. Split content by company sections (## 1. Company Name)
+2. For each company section:
+   - Extract all apps from "Target Apps Found" section
+   - Extract all apps from "Other Notable Apps" section
+   - Combine into single list
+   - Create new "Tech Stack" section
+   - Remove old sections
+
+3. Preserve app formatting:
+   - **AppName** ✓ for target apps (with checkmark)
+   - Regular text for other apps
+
+Sample Companies Updated:
+- Microsoft
+- Qualcomm
+- EY (Ernst & Young)
+- Koch Industries
+- LTIMindtree
+- And 29 more...
+
+================================================================================
+HTML CHANGES
+================================================================================
+
+1. DATA STRUCTURE UPDATE (generate_html.py)
+
+   Added combined tech_stack array:
+   ```python
+   tech_stack = []
+   for app in apps:
+       tech_stack.append({'name': app, 'is_target': True})
+   for app in other_apps:
+       if app not in apps:
+           tech_stack.append({'name': app, 'is_target': False})
+   ```
+
+2. RENDERING UPDATE
+
+   BEFORE - Two separate sections:
+   - "Target Applications" (blue tags)
+   - "Other Technologies" (gray tags)
+
+   AFTER - Single section:
+   - "Tech Stack" with mixed tags
+     - Blue tags with bold for target apps
+     - Gray tags for other technologies
+
+3. CSS UPDATE
+
+   Added explicit .app-tag.target class:
+   ```css
+   .app-tag.target {
+       background: #e7f3ff;
+       color: #0066cc;
+       font-weight: 500;
+   }
+
+   .app-tag.other {
+       background: #f0f0f0;
+       color: #666;
+   }
+   ```
+
+4. FILTER UPDATE
+
+   Updated filter logic to search within tech_stack:
+   - Maintains backward compatibility
+   - Searches both tech_stack and legacy apps/other_apps
+
+================================================================================
+VISUAL EXAMPLES
+================================================================================
+
+QUALCOMM - Tech Stack (3 items):
+┌────────────────────────────────────┐
+│ Tech Stack                         │
+├────────────────────────────────────┤
+│ • ServiceNow (blue, bold)         │
+│ • Azure DevOps Work Items (blue)  │
+│ • Microsoft 365/Azure (gray)      │
+└────────────────────────────────────┘
+
+EY - Tech Stack (5 items):
+┌────────────────────────────────────┐
+│ Tech Stack                         │
+├────────────────────────────────────┤
+│ • ServiceNow (blue, bold)         │
+│ • Azure DevOps Work Items (blue)  │
+│ • Aha (blue)                      │
+│ • Azure SQL (blue)                │
+│ • Microsoft 365/Azure (gray)      │
+└────────────────────────────────────┘
+
+KOCH INDUSTRIES - Tech Stack (4 items):
+┌────────────────────────────────────┐
+│ Tech Stack                         │
+├────────────────────────────────────┤
+│ • ServiceNow (blue, bold)         │
+│ • FileShare (blue)                │
+│ • GitHub (blue)                   │
+│ • SAP (gray)                      │
+└────────────────────────────────────┘
+
+================================================================================
+COMPANIES WITH DETAILED FORMAT (UNCHANGED)
+================================================================================
+
+Companies like Wells Fargo, AT&T, and others with extensive tech stack
+documentation retain their detailed format:
+
+Example - Wells Fargo:
+----------------------
+### **Microsoft 365 / Azure** ✅ **PRIMARY CUSTOMER**
+- Details...
+
+### **Salesforce** ✅ **CONFIRMED USER**
+- Details...
+
+### **ServiceNow** ✅ **CONFIRMED USER**
+- Details...
+
+These companies have much more detailed documentation with subsections per
+technology, and converting them would lose valuable information.
+
+================================================================================
+BACKWARD COMPATIBILITY
+================================================================================
+
+HTML Data Structure:
+- ✓ 'apps' array still exists (for statistics)
+- ✓ 'other_apps' array still exists (for backward compatibility)
+- ✓ 'tech_stack' array added (new primary source)
+
+Filtering:
+- ✓ Still works with app names
+- ✓ Searches within tech_stack
+- ✓ Falls back to apps/other_apps if tech_stack not present
+
+Statistics:
+- ✓ Salesforce count: Still accurate (139 companies)
+- ✓ ServiceNow count: Still accurate (131 companies)
+- ✓ All other app counts: Maintained
+
+================================================================================
+VERIFICATION COMMANDS
+================================================================================
+
+Check markdown:
+```bash
+cd C:\Users\anirudhyadav\Fortune500_TechStack_Research_2026
+
+# Count Tech Stack sections
+grep -c "**Tech Stack:**" company_technology_stack_analysis.md
+
+# Verify old sections removed
+grep -c "**Target Apps Found:**" company_technology_stack_analysis.md
+grep -c "**Other Notable Apps:**" company_technology_stack_analysis.md
+```
+
+Check HTML:
+```python
+import json, re
+with open('company_technology_stack_analysis.html', 'r') as f:
+    html = f.read()
+match = re.search(r'const companies = (\[.*?\]);', html, re.DOTALL)
+companies = json.loads(match.group(1))
+
+# Check tech_stack structure
+sample = [c for c in companies if 'QUALCOMM' in c['name'].upper()][0]
+print(f"Tech Stack: {sample['tech_stack']}")
+```
+
+================================================================================
+FILES UPDATED
+================================================================================
+
+1. company_technology_stack_analysis.md
+   - Updated 34 company sections
+   - Combined sections into "Tech Stack"
+
+2. generate_html.py
+   - Added tech_stack data structure
+   - Updated rendering logic
+   - Added CSS for .app-tag.target
+   - Updated filter function
+
+3. company_technology_stack_analysis.html
+   - Regenerated with combined tech stack
+   - Single section per company (for simple format companies)
+   - Blue tags for target apps, gray for others
+
+4. New scripts:
+   - combine_tech_sections_v2.py (consolidation script)
+
+================================================================================
+USER EXPERIENCE IMPROVEMENTS
+================================================================================
+
+Before (2 sections, 8 apps total):
+  [Target Applications]
+  - Salesforce
+  - ServiceNow
+
+  [Other Technologies]
+  - Azure
+  - AWS
+  - SAP
+  - Workday
+  - Oracle
+  - Microsoft 365
+
+After (1 section, 8 apps total):
+  [Tech Stack]
+  - Salesforce (blue)
+  - ServiceNow (blue)
+  - Azure (gray)
+  - AWS (gray)
+  - SAP (gray)
+  - Workday (gray)
+  - Oracle (gray)
+  - Microsoft 365 (gray)
+
+Result:
+- 50% fewer section headers
+- 100% of information retained
+- Clearer visual hierarchy
+- Easier to scan and understand
+
+================================================================================
+END OF UPDATE SUMMARY
+================================================================================

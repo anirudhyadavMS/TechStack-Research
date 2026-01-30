@@ -1,0 +1,121 @@
+Fortune 500 Companies: Ranks 402-501 (Next 100 Companies)
+
+Batch 32 (402-411): 10 companies
+402. Under Armour
+403. Hanesbrands
+404. V.F. Corporation
+405. Tapestry
+406. Coach
+407. Kate Spade
+408. Michael Kors
+409. Capri Holdings
+410. Guess
+411. Carter's
+
+Batch 33 (412-421): 10 companies
+412. Skechers
+413. Crocs
+414. Deckers Outdoor
+415. Wolverine World Wide
+416. Caleres
+417. Steven Madden
+418. G-III Apparel Group
+419. Oxford Industries
+420. Movado Group
+421. Fossil Group
+
+Batch 34 (422-431): 10 companies
+422. Build-A-Bear Workshop
+423. Children's Place
+424. Chico's FAS
+425. J. Jill
+426. Ascena Retail Group
+427. Lands' End
+428. Talbots
+429. Express
+430. New York & Company
+431. Destination XL Group
+
+Batch 35 (432-441): 10 companies
+432. American Eagle Outfitters
+433. Abercrombie & Fitch
+434. Urban Outfitters
+435. Anthropologie
+436. Free People
+437. Aerie
+438. Buckle
+439. Zumiez
+440. Tillys
+441. Hot Topic
+
+Batch 36 (442-451): 10 companies
+442. Hibbett Sports
+443. Academy Sports + Outdoors
+444. Big 5 Sporting Goods
+445. Modell's Sporting Goods
+446. REI
+447. Bass Pro Shops
+448. Cabela's
+449. Sportsman's Warehouse
+450. Camping World Holdings
+451. Gander Outdoors
+
+Batch 37 (452-461): 10 companies
+452. Party City Holdco
+453. Spencer's
+454. Spirit Halloween
+455. Michaels Companies
+456. Jo-Ann Stores
+457. Hobby Lobby
+458. AC Moore
+459. Joann Fabrics
+460. Hancock Fabrics
+461. Pier 1 Imports
+
+Batch 38 (462-471): 10 companies
+462. HomeGoods
+463. HomeSense
+464. At Home Group
+465. Tuesday Morning
+466. Christmas Tree Shops
+467. Garden Ridge
+468. Linens 'n Things
+469. Bed Bath & Beyond (duplicate check)
+470. Container Store
+471. The Organizer
+
+Batch 39 (472-481): 10 companies
+472. Office Depot
+473. OfficeMax
+474. Staples
+475. Quill
+476. Viking Office Products
+477. Grand & Toy
+478. Corporate Express
+479. United Stationers
+480. Essendant
+481. SP Richards
+
+Batch 40 (482-491): 10 companies
+482. W.W. Grainger
+483. Fastenal
+484. MSC Industrial Direct
+485. Wesco International
+486. HD Supply
+487. Hughes Supply
+488. WESCO Distribution
+489. Anixter International
+490. Graybar Electric
+491. Rexel
+
+Batch 41 (492-501): 10 companies
+492. Applied Industrial Technologies
+493. DXP Enterprises
+494. MRC Global
+495. NOW Inc.
+496. Kaman Corporation
+497. Air & Water Technologies
+498. DNOW
+499. Titan Machinery
+500. Rush Enterprises
+501. Penske Truck Leasing

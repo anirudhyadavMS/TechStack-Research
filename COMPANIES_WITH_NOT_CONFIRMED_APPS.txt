@@ -1,0 +1,140 @@
+================================================================================
+COMPANIES WITH "NOT CONFIRMED" APPS - REVIEW NEEDED
+================================================================================
+
+Found 25 companies from the detailed research (companies 1-65) that have apps
+marked as "NOT Confirmed", "No evidence", or similar. These may need to be
+updated to confirmed status.
+
+================================================================================
+LIST OF COMPANIES WITH ISSUES
+================================================================================
+
+1. AT&T (#35)
+   - Slack: No evidence found (marked as NOT using)
+   - Gmail/Google Drive: No evidence found
+
+2. ABBVIE (#36)
+   - ServiceNow: Marked as NO EVIDENCE FOUND
+   - Already fixed: Google Drive was added as confirmed
+
+3. CVS HEALTH (#40)
+   - Jira/Confluence: No public evidence found
+   - Gmail/Google Drive: Not confirmed
+   - Gong: No evidence found
+   - Dropbox/Box: No evidence found
+
+4. CARDINAL HEALTH (#41)
+   - AWS/Azure: No evidence of usage
+
+5. CENTENE (#42)
+   - Gmail/Google Drive: Marked as NOT USED
+
+6. CHEVRON (#43)
+   - Slack: No evidence found
+   - Jira/Confluence: No evidence found
+   - Gmail/Google Drive/Google Workspace: No evidence found
+
+7. CIGNA GROUP (#44)
+   - Slack: NOT CONFIRMED
+   - Jira/Confluence: NOT CONFIRMED
+   - Gmail/Google Drive/Google Workspace: NOT CONFIRMED
+
+8. CITIGROUP (#45)
+   - Slack: NOT CONFIRMED
+   - Jira: NOT CONFIRMED (but HTML shows Jira as confirmed!)
+   - Confluence: NOT CONFIRMED (but HTML shows Confluence as confirmed!)
+
+9. COMCAST (#46)
+   - Google Drive: Not confirmed for internal use
+
+10. DELL (#47)
+    - Slack, Jira, Confluence: No evidence found
+    - Gmail/Google Workspace: No evidence of internal use
+
+11. EXXON MOBIL (#48)
+    - ServiceNow: No evidence (but HTML shows ServiceNow as confirmed!)
+    - Slack: No evidence (but HTML shows Slack as confirmed!)
+    - Jira: No evidence (but HTML shows Jira as confirmed!)
+    - Confluence: No evidence (but HTML shows Confluence as confirmed!)
+
+12. FEDEX (#49)
+    - Gmail/Google Workspace: No evidence found
+    - Jira/Confluence: No evidence found
+
+13. HP INC (#50)
+    - Salesforce: NOT A CUSTOMER (moved to Microsoft Dynamics in 2016)
+
+14. IBM (#51)
+    - Google Workspace/Gmail: No evidence found
+    - Jira & Confluence: No specific evidence found
+
+15. LOCKHEED MARTIN (#52)
+    - Jira/Confluence: NOT CONFIRMED
+    - Gmail/Google Drive: NOT CONFIRMED
+
+16. LOWE'S (#53)
+    - Google Workspace/Gmail: No evidence found
+
+17. MCKESSON (#54)
+    - Slack, Jira, Confluence: NOT CONFIRMED
+    - Gmail/Google Drive/Google Workspace: NOT CONFIRMED
+
+18. MERCK (#55)
+    - Slack: No evidence found
+    - Jira: No evidence found
+    - Confluence: No evidence found
+    - Gmail/Google Drive: No evidence found
+
+19. META PLATFORMS (#56)
+    - Google Workspace: No evidence
+    - Slack: Does not use internally
+    - Confluence: No evidence
+
+20. NVIDIA (#57)
+    - Salesforce CRM: Partnership exists but not confirmed as internal customer
+    - Gmail/Google Drive/Google Workspace: No evidence found
+
+21. UPS (#60)
+    - Salesforce: No evidence found
+    - Slack, Jira, Confluence: No specific evidence found
+    - Gmail/Google Workspace: No evidence found
+
+22. WALT DISNEY (#61)
+    - Gmail/Google Drive: No evidence of use
+
+23. WELLS FARGO (#62)
+    - Gmail/Google Drive: NOT CONFIRMED for enterprise email
+    (Note: Uses Google Cloud Platform but not Gmail)
+
+24. ORACLE (#63)
+    - Salesforce, ServiceNow, Jira, Confluence: No evidence (competitors)
+    - Microsoft 365/Azure: No evidence
+
+25. CATERPILLAR (#64)
+    - Slack, Jira, Confluence: No evidence found
+    - Gmail/Google Drive: No evidence
+
+================================================================================
+DISCREPANCIES FOUND
+================================================================================
+
+Some companies show apps as "NOT CONFIRMED" in markdown but CONFIRMED in HTML:
+
+1. CITIGROUP: Jira & Confluence shown as confirmed in HTML but NOT in markdown
+2. EXXON MOBIL: ServiceNow, Slack, Jira, Confluence shown as confirmed in HTML
+
+This suggests the HTML has more recent/correct data than some markdown sections.
+
+================================================================================
+RECOMMENDATIONS
+================================================================================
+
+1. Review each company to determine if apps should be confirmed
+2. Fix discrepancies between markdown and HTML
+3. For companies like HP INC (#50) - remove Salesforce if they're NOT a customer
+4. Update ABBVIE, APPLE, INTEL with confirmed apps (already started)
+
+================================================================================
+END OF REPORT
+================================================================================
